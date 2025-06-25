@@ -22,15 +22,15 @@
 </head>
 <body>
 
-  <p id="inicio-estoria">Era uma vez...</p>
+  <h1>Era uma vez...</h1>
 
   <div id="texto-estoria"></div>
 
+  <div id="texto-opcoes"></div>
+
   <div id="options">
-    <button onclick="handleClick(1)">um Dragão!</button>
-    <button onclick="handleClick(2)">um cavaleiro!</button>
-    <button onclick="handleClick(3)">uma ladra!</button>
-    <button onclick="handleClick(4)">uma feiticeira!</button>
+    <button onclick="escolha(1)" id="option1">um Dragão!</button>
+    <button onclick="escolha(2)" id="option2">um cavaleiro!</button>
   </div>
 
   <script>
@@ -59,7 +59,7 @@
             });
     };
 
-    function handleClick(option) {
+    function escolha(option) {
       // pega elemento do texto
       const textoEstoria = document.getElementById('texto-estoria');
       // cria elemento do parágrafo
@@ -67,20 +67,39 @@
       // incrementa número do capítulo
       capitulo++;
       // Cria elemento temporário para facilitar acesso
-      let temp = capitulo.toString();
+      //let temp = capitulo.toString();
+      temp = option.toString();
       
       // Insere texto na página
-      let node;
+      //let node;
       try {
-        node = document.createTextNode(`${capitulosDaEstoria[temp].titulo} ${capitulosDaEstoria[temp].texto}`);
+        paragraph.innerHTML = `${capitulosDaEstoria[temp].titulo} ${capitulosDaEstoria[temp].texto}`;
       } catch(err) {
-        node = document.createTextNode(`Erro, falta capítulo da estória!`);
+        paragraph.innerHTML = `Erro, falta capítulo da estória!`;
       }
-      paragraph.appendChild(node);
+      //paragraph.appendChild(node);
       textoEstoria.appendChild(paragraph);
 
       // loga para ajudar no debug
       console.log(capitulosDaEstoria[temp].titulo + " " + capitulosDaEstoria[temp].texto);
+
+      updateButtonText("option1",capitulosDaEstoria[temp].opcoes[0]);
+      updateButtonText("option2",capitulosDaEstoria[temp].opcoes[1]);
+    }
+
+    function updateButtonText(buttonId, text) {
+        // Construct the button ID dynamically based on the given ID
+        //const buttonId = `option${id}`;
+        
+        // Get the button element by its ID
+        const button = document.getElementById(buttonId);
+        
+        // If the button exists, update its text content
+        if (button) {
+            button.textContent = text;
+        } else {
+            console.error(`Button with id "${buttonId}" not found.`);
+        }
     }
   </script>
 

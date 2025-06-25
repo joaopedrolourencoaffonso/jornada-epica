@@ -1,13 +1,23 @@
 {
     "1": {
-            "titulo":"1",
-            "texto":"1"
+        "titulo":"<b>um Dragão chamada Jorge!</b><br>",
+        "texto":"Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando as estrelas quando um dia: <br>--A estrela está caindo!<br> Jorge olhou a estrela cair no horizonte e se lembrou de todas as estórias sobre como estrelas podem conceder desejos e tornar sonhos em realidade!<br> Jorge percebeu que não tinha outra escolha e decidiu...",
+        "opcoes": ["Aquilo era muito perigoso e ele prefiria ficar em casa", "Ele iria atrás da estrela, imediatamente"],
+        "proxima": "5"
     },
     "2": {
         "titulo":"2",
         "texto":"2"
     },
     "3": {
+        "titulo":"3",
+        "texto":"3"
+    },
+    "4": {
+        "titulo":"3",
+        "texto":"3"
+    },
+    "5": {
         "titulo":"3",
         "texto":"3"
     }
