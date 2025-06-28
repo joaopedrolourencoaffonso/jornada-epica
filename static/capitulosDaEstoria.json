@@ -7,57 +7,57 @@
         "proxima2": "2"
     },
     "1": {
-        "titulo":"<b>um Dragão chamada Jorge!</b><br>",
+        "titulo":"<h2>um Dragão chamado Jorge!</h2>",
         "texto":"Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando as estrelas quando de repente: <br>--A estrela está caindo!<br> Jorge olhou a estrela cair no horizonte e se lembrou de todas as estórias sobre como estrelas podem conceder desejos e tornar sonhos em realidade!<br> Jorge percebeu que não tinha outra escolha e decidiu...",
         "opcoes": ["Aquilo era muito perigoso e ele prefiria ficar em casa", "Ele iria atrás da estrela, imediatamente"],
         "proxima1": "3",
         "proxima2": "4"
     },
     "2": {
-        "titulo":"<b>um cavaleiro chamado, Rogério!</b><br>",
+        "titulo":"<h2>um cavaleiro chamado, Rogério!</h2>",
         "texto":"Rogério era um grande cavaleiro, conhecido por matar muitos trolls, ogros e pessoas que tentavam fura a fila. Ele vivia uma vida feliz de aventura e fama até que um dia...<br>--Uma flecha na minha perna!<br>Rogério nunca mais foi o mesmo. Sem fama ou aventura, apenas tomava conta de seu posto de estrada, dia e noite, até que uma noite como outra qualquer, olhou para o céu e gritou:<br>--Uma estrela cadente!<br>Rogério olhou a estrela cair no horizonte e se lembrou de todas as estórias sobre como estrelas podem conceder desejos e tornar sonhos em realidade!<br> Percebeu que não tinha outra escolha senão...",
         "opcoes": ["Ignorar e seguir a vida", "Ir atrás da estrela, imediatamente"],
         "proxima1": "7",
         "proxima2": "8"
     },
     "3": {
-        "titulo":"<b>aquilo era perigoso demais</b><br>",
-        "texto":"Jorge não era aventureiro e não estava afim de participar de uma aventura.<br> Ficou onde estava, vivendo um dia após o outro até que um dia o céu se tornou roxo e espíritos malignos começaram a aparecer por todos os lados:<br>--Socorro!<br>Mas já era tarde demais, os espíritos o haviam capturado. Antes que se desse conta, estava numa carroça, amarrado e sendo levado para uma funesta torre de pedra e aço. Do topo da torre, um homem forte de cabelos negros e vestes vermelhas gritou:<br>--Meu nome é Maldok, novo senhor desse mundo! Sirva-me ou pereça!<br> Tremendo, Jorge pensou em suas opções e decidiu...",
+        "titulo":"<h2>aquilo era perigoso demais</h2>",
+        "texto":"Jorge não era aventureiro e não estava afim de participar de uma aventura.<br> Ficou onde estava, vivendo um dia após o outro até que um dia o céu se tornou roxo e espíritos malignos começaram a aparecer por todos os lados:<br>--Socorro!<br>Mas já era tarde demais, os espíritos o haviam capturado. Antes que se desse conta, estava numa carroça, amarrado e sendo levado <br>para uma funesta torre de pedra e aço. Do topo da torre, um homem forte de cabelos negros e vestes vermelhas gritou:<br>--Meu nome é Maldok, novo senhor desse mundo! Sirva-me ou pereça!<br> Tremendo, Jorge pensou em suas opções e decidiu...",
         "opcoes": ["obedecer a Maldok", "dizer que vai obedecer, mas tentar fugir"],
         "proxima1": "5",
         "proxima2": "6"
     },
     "4": {
-        "titulo":"<b>perseguir a estrela, custe o que custar!</b><br>",
-        "texto":"Chances como essas não podiam ser desperdiçadas! Mas como ira agir?<br>Ele podia ir direto para a estrela ou podia buscar a ajuda do mago Kodlam que vivia ali perto...",
+        "titulo":"<h2>perseguir a estrela, custe o que custar!</h2>",
+        "texto":"Chances como essas não podiam ser desperdiçadas! Mas como ira agir?<br>Ele podia ir direto para a estrela ou podia buscar a ajuda do mago Dolkam que vivia ali perto...",
         "opcoes": ["Voar direto para a estrela", "Pedir ajuda ao mago"],
         "proxima1": "9",
         "proxima2": "10"
     },
     "5": {
-        "titulo":"<b>...obedecer Maldok</b><br>",
+        "titulo":"<h2>...obedecer Maldok</h2>",
         "texto":"Se viver na floresta havia ensinado algo a Jorge é que nunca é boa ideia comprar briga com quem é maior que você:<br>--À suas ordens, mestre!<br>--Muito bem, escravo.<br>Assim, Jorge se tornou mais um soldado do exército de Maldok. De tempos em tempos era enviado para as linhas de frente das guerras, onde os horrores e o mal abundavam.<br>Os anos passaram, seu corpo ficou cansado, sua mente ficou nublada por todas as visões da guerra, mas a vida seguia.<br>Um dia, patrulhava a mesma floresta em que havia crescido quando se deparou com um cavaleiro velho, de armadura suja e cansado:<br>--Rogério!?<br>--Jorge!?<br>O dragão ficou embasbacado. Tinha ordem de queimar os cavaleiros, mas quando Jorge era lagartixa, Rogério o havia protegido de caçadores que iam matá-lo.<br>Jorge pensou no que ia fazer em seguida e decidiu...",
         "opcoes": ["Conversar", "Queimar"],
         "proxima1": "6",
         "proxima2": "7"
     },
     "6": {
-        "titulo":"<b>...conversar!</b><br>",
+        "titulo":"<h2>...conversar!</h2>",
         "texto":"--Rogério!? O que você está fazendo aqui? Não sabe que é nosso território? Você não...<br>--Jorge... Lembra de quando salvei sua vida?<br>--...Sim...sempre serei grato por isso, mas...<br>--Jorge, me escute, existe uma chance de pôr um fim nisso tudo! De te libertar! De libertar a todos nós! O poder de Maldok vêem da estrela cadente! Sem ela, ele é só um feiticeiro comum! Me leve até o topo da torre e salvaremos o mundo juntos!<br>O grande coração de Jorge batia como um tambor de guerra. Seus músculos tremiam apenas de pensar em tudo que Maldok podia fazer com ele se falhassem...<br>--Liberdade...<br>Jorge pensou por um bom tempo, e decidiu...",
         "opcoes": ["Lutar!", "Queimar!"],
         "proxima1": "7",
         "proxima2": "8"
     },
     "7": {
-        "titulo":"<b>...Lutar!</b><br>",
+        "titulo":"<h2>...Lutar!</h2>",
         "texto":"--Eu estou com você, Rogério!<br>O cavaleiro subiu nas costas do dragão e os dois voaram raso por sobre as árvores, tomando cuidado de só chegar à torre quando já fosse de noite e os trolls não pudessem ver direito:<br>--Quem vem lá? --perguntaram os dois trolls guardando o portão da torre<br>--Apenas eu! Sozinho! Sem mais ninguém comigo!<br>--Está exagerando.--sussurou Rogério<br>--Hum...--o gigantesco troll cinza fungou o ar com seu gigantesco nariz enquanto agarrava sua marreta com força--...E de onde vem esse cheiro de cavaleiro, Jorge?<br>--Bem, é que eu...",
         "opcoes": ["Comi um cavaleiro!", "Não responder e cuspir fogo na cara do troll!"],
         "proxima1": "8",
         "proxima2": "9"
     },
     "8": {
-        "titulo":"<b>...comi um cavaleiro!</b><br>",
-        "texto":"--Sério? Quem você comeu?<br>--Sir Rogério! O baixinho!<br>--Eu não sou tão baixo...--resmungou Rogério<br>--Hum... tudo bem, pode passar!<br>A porta se abriu e Jorge alegremente avançou quando sentiu um golpe nas costas e caiu no chão, muito ferido:<br>--Nada engana o nariz de um troll, jacaré!<br>Antes que ele ou Rogério tivessem tempo de reagir, veio o segundo golpe e tanto o dragão e o cavaleiro se tornaram memórias do que poderia ter sido<br>Maldok venceu!",
+        "titulo":"<h2>...comi um cavaleiro!</h2>",
+        "texto":"--Sério? Quem você comeu?<br>--Sir Rogério! O baixinho!<br>--Eu não sou tão baixo...--resmungou Rogério<br>--Hum... tudo bem, pode passar!<br>A porta se abriu e Jorge alegremente avançou quando sentiu um golpe nas costas e caiu no chão, muito ferido:<br>--Nada engana o nariz de um troll, jacaré!<br>Antes que ele ou Rogério tivessem tempo de reagir, veio o segundo golpe e tanto o dragão e o cavaleiro se tornaram memórias do que poderia ter sido<h2>Maldok venceu!</h2>",
         "opcoes": ["Reinicar aventura?", "Reinicar aventura?"],
         "proxima1": "777",
         "proxima2": "777"
