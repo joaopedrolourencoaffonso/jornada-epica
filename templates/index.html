@@ -83,6 +83,7 @@
         paragraph.innerHTML = `${capitulosDaEstoria[temp].titulo} ${capitulosDaEstoria[temp].texto}`;
       } catch(err) {
         paragraph.innerHTML = `Erro, falta capítulo da estória!`;
+        window.location.reload();
       }
       //paragraph.appendChild(node);
       textoEstoria.appendChild(paragraph);
