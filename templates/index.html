@@ -37,6 +37,7 @@
     // variáveis globais
     let capitulo = 0;
     let capitulosDaEstoria;
+    let proxima = 0;
 
     window.onload = function() {
         // Use fetch to make the GET request
@@ -60,6 +61,12 @@
     };
 
     function escolha(option) {
+      if (option == 1) {
+        proxima = capitulosDaEstoria[proxima].proxima1;
+      } else {
+        proxima = capitulosDaEstoria[proxima].proxima2;
+      }
+      temp = proxima;
       // pega elemento do texto
       const textoEstoria = document.getElementById('texto-estoria');
       // cria elemento do parágrafo
@@ -68,7 +75,7 @@
       capitulo++;
       // Cria elemento temporário para facilitar acesso
       //let temp = capitulo.toString();
-      temp = option.toString();
+      //temp = option.toString();
       
       // Insere texto na página
       //let node;

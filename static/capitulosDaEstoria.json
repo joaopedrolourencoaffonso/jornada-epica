@@ -1,21 +1,38 @@
 {
+    "0": {
+        "titulo":"",
+        "texto":"",
+        "opcoes": ["", ""],
+        "proxima1": "1",
+        "proxima2": "2"
+    },
     "1": {
         "titulo":"<b>um Dragão chamada Jorge!</b><br>",
-        "texto":"Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando as estrelas quando um dia: <br>--A estrela está caindo!<br> Jorge olhou a estrela cair no horizonte e se lembrou de todas as estórias sobre como estrelas podem conceder desejos e tornar sonhos em realidade!<br> Jorge percebeu que não tinha outra escolha e decidiu...",
+        "texto":"Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando as estrelas quando de repente: <br>--A estrela está caindo!<br> Jorge olhou a estrela cair no horizonte e se lembrou de todas as estórias sobre como estrelas podem conceder desejos e tornar sonhos em realidade!<br> Jorge percebeu que não tinha outra escolha e decidiu...",
         "opcoes": ["Aquilo era muito perigoso e ele prefiria ficar em casa", "Ele iria atrás da estrela, imediatamente"],
-        "proxima": "5"
+        "proxima1": "3",
+        "proxima2": "4"
     },
     "2": {
-        "titulo":"2",
-        "texto":"2"
+        "titulo":"<b>um cavaleiro chamado, Rogério!</b><br>",
+        "texto":"Rogério era um grande cavaleiro, conhecido por matar muitos trolls, ogros e pessoas que tentavam fura a fila. Ele vivia uma vida feliz de aventura e fama até que um dia...<br>--Uma flecha na minha perna!<br>Rogério nunca mais foi o mesmo. Sem fama ou aventura, apenas tomava conta de seu posto de estrada, dia e noite, até que uma noite como outra qualquer, olhou para o céu e gritou:<br>--Uma estrela cadente!<br>Rogério olhou a estrela cair no horizonte e se lembrou de todas as estórias sobre como estrelas podem conceder desejos e tornar sonhos em realidade!<br> Percebeu que não tinha outra escolha senão...",
+        "opcoes": ["Ignorar e seguir a vida", "Ir atrás da estrela, imediatamente"],
+        "proxima1": "7",
+        "proxima2": "8"
     },
     "3": {
-        "titulo":"3",
-        "texto":"3"
+        "titulo":"<b>aquilo era perigoso demais</b><br>",
+        "texto":"Jorge não era aventureiro e não estava afim de participar de uma aventura.<br> Ficou onde estava, vivendo um dia após o outro até que um dia o céu se tornou roxo e espíritos malignos começaram a aparecer por todos os lados:<br>--Socorro!<br>Mas já era tarde demais, os espíritos o haviam capturado. Antes que se desse conta, estava numa carroça, amarrado e sendo levado para uma funesta torre de pedra e aço. Do topo da torre, um homem forte de cabelos negros e vestes vermelhas gritou:<br>--Meu nome é Maldok, novo senhor desse mundo! Sirva-me ou pereça!",
+        "opcoes": ["Obedecer a Maldok", "Dizer que vai obedecer, mas tentar fugir"],
+        "proxima1": "5",
+        "proxima2": "6"
     },
     "4": {
-        "titulo":"3",
-        "texto":"3"
+        "titulo":"<b>perseguir a estrela, custe o que custar!</b><br>",
+        "texto":"Chances como essas não podiam ser desperdiçadas! Mas como ira agir?<br>Ele podia ir direto para a estrela ou podia buscar a ajuda do mago Kodlam que vivia ali perto...",
+        "opcoes": ["Voar direto para a estrela", "Pedir ajuda ao mago"],
+        "proxima1": "9",
+        "proxima2": "10"
     },
     "5": {
         "titulo":"3",
