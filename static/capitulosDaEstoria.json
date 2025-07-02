@@ -45,17 +45,115 @@
         "titulo":"<h2>No calor da batalha!</h2>",
         "texto":"Jorge sabia ver uma armadilha quando estava diante de uma. Aguardou calmamente o dia da batalha, apenas esperando o momento em que estivesse no céu, longe de todas as lanças, espadas e...<br>--Dragão, venha cá!--disse um homem de armadura negra<br>--Do que precisa, comandante?<br>--Do que eu preciso? Ora essa! Do meu dragão é claro! Curve-se para que eu possa cavalgá-lo para a batalha!<br>--M-m-mas meu comandante...<br>--Faça o que ele diz, jacaré...--disse outro homem de armdura negra, exatamente idêntico ao primeiro--...Meu irmão não é tão gentil quanto eu, hehehe...<br>Pecebendo que estava diante dos 'gêmeos da morte', Jorge deixou o cavaleiro assumir sua montaria enquanto imaginava o que fazer em seguida.<br>Quando já estava nos céus, a meio caminho da cidade inimiga, viu um rio:<br>--Se eu mergulhar, esse idiota morre afogado e eu estou livre!<br>Mas lembrou-se que seu 'cavaleiro' estava armado. Seria perigoso...<br>--Rogério! Ele me salvou uma vez anos atrás, talvez me ajude hoje!<br>Pesou prós e contras e decidiu...",
         "opcoes": ["Rogério!", "Rio!"],
-        "proxima1": "112121",
-        "proxima2": "112122"
+        "proxima1": "11221",
+        "proxima2": "11222"
     },
-    "112121": {
+    "11221": {
         "titulo":"<h2>Rogério!</h2>",
-        "texto":"AINDA TENHO QUE ESCREVER ESSE PATH</h2>",
-        "opcoes": ["Rogério!", "Rio!"],
-        "proxima1": "112121",
-        "proxima2": "112122"
+        "texto":"Os muros brancos de WhiteHall apareceram no horizonte, cobertos por tropas de arqueiros disparando sobre os monstros abaixo. A batalha era brutal, gritos de fúria e dor se misturava com o tilintar de espadas e quebras de ossos, criando uma terrível atmosfera.<br>--Por sobre os muros, besta! Direto para o castelo!<br> Jorge obedeceu, sempre tomando cuidado de desviar das flechas e feitiços que voavam por todos os lados, até que viu um cavaleiro com perna machucada, lutando contra dois ogros em uma das ruas da cidade:<br>--Rogério!<br>--O que você disse!?<br>Jorge se ainda precisava se livra do cavaleiro negro. Ele podia se atirar contra uma das casas e torcer que o cavaleiro fosse arrancado de suas costas ou ele podia fingir que iria atacar Rogério e então pedir sua ajuda.<br>Após muita consideração, Jorge decidiu...",
+        "opcoes": ["Se lançar contra a casa", "Pedir ajuda a Rogério"],
+        "proxima1": "112211",
+        "proxima2": "112212"
     },
-    "112122": {
+    "112211": {
+        "titulo":"<h2>Destruição!</h2>",
+        "texto":"--Um inimigo abaixo senhor! Precisamos nos aproximar!<br>Rapidamente, Jorge fez um parafuso na direção de Rogério, mas no último minuto, se atirou contra uma casa próxima.<br>Doeu... doeu muito!<br>Mas pegou o cavaleiro negro de surpresa e este ficou preso na pilha de escombros enquanto Jorge escapada:<br>--Jorge, o que você está fazendo aqui!?<br>Jorge olhou para Rogério e gritou...",
+        "opcoes": ["Fugindo!", "Vim me juntar a vocês!"],
+        "proxima1": "1122121",
+        "proxima2": "1122112"
+    },
+    "1122112": {
+        "titulo":"<h2>Rebelde!</h2>",
+        "texto":"--Maldok é um monstro que precisa ser impedido!<br>--Então não fique parado aí! Há uma batalha para vencer!<br>As horas seguintes foram brutais, mas gloriosas. As forças inimigas foram lentamente puxadas de volta para os portões e forçadas a recuar para a floresta.<br>O dia era vitorioso, mas a um grande preço, milhares estavam mortos e ainda mais feridos:<br>--Outra vitória dessas será nosso fim!--gritou o rei Calvom do topo de seu cavalo<br>--Nem tudo está perdido, milorde!--disse Rogério, se aproximando ao lado de Jorge.<br> O rei ficou aterrorizado de início, mas Rogério explicou tudo:<br>--De acordo com o que Rogério me disse senhor, quase todo o exército de Maldok está lá fora! Isso quer dizer que a torre está apenas com uma pequena força defensiva!<br>--Mas essa é uma missão praticamente suicída! Meu caro dragão, você tem certeza disso?<br>Após pensar um pouco, Jorge concorda que quanto mais cedo, melhor, mas talvez houvesse uma forma de incrementar suas chances. Jorge decide pedir ao rei que:",
+        "opcoes": ["Lhe forneça uma armadura especial", "Ofereça um mago para ajudar na missão!"],
+        "proxima1": "11221121",
+        "proxima2": "11221122"
+    },
+    "11221121": {
+        "titulo":"<h2>Armadura dourada!</h2>",
+        "texto":"--É o mínimo que podemos fazer!--responde o rei<br>Ao longo da tarde, os melhores ferreiros do reino se reúnem e dão vida a 'Gal Artha', a armadura dourada.<br>Equipado para sua missão, Jorge e Rogério partem voando da cidade debaixo da cobertura da noite.<br>Ao se aproximar da torre, a dupla discute duas rotas de ataque:<br>--Os poderes de Maldok vêem da estrela que caiu alguns meses atrás!--disse Rogério, num tom sombrio--...Se eu tivesse sido mais rápido, eu a teria alcançado antes dele...<br>--Então o que devemos fazer? Ir direto para o topo da torre?<br>--Por que o topo?<br>--Se eu fosse um mago do mal, é lá onde eu esconderia!<br>--Talvez, mas ele já deve estar esperando um ataque aéreo, pela base da torre será mais inesperado!<br>Jorge avalia as palavras de Rogério e decide...",
+        "opcoes": ["Ataque aéreo!", "Entrar pela porta da frente!"],
+        "proxima1": "112211211",
+        "proxima2": "112211212"
+    },
+    "112211211": {
+        "titulo":"<h2>Eles vêem do céu!</h2>",
+        "texto":"Ao avistar a torre no horizonte negro da noite, Jorge reune sua coragem, enche o peito de fogo e faz um parafuso, inunando a torre de chamas:--Uhuuu! É isso aí!<br>Com o coração acelerado, Jorge se prepara para o segundo ataque quando um relâmpago irrompe de dentro da torre, cegando por um instante e atingindo-o no seguinte.<br>O coração do dragão para de funcionar instantaneamente e tanto o cavaleiro quanto o dragão caem contra o solo, se tornando memórias do que poderia ter sido.<h2>Maldok venceu!</h2>",
+        "opcoes": ["Reiniciar aventura?", "Reinicar aventura?"],
+        "proxima1": "7",
+        "proxima2": "7"
+    },
+    "112211212": {
+        "titulo":"<h2>Pela porta da frente!</h2>",
+        "texto":"Ao avistar a torre no horizonte negro da noite, Jorge reune sua coragem, enche o peito de fogo e faz um parafuso e aterrisa na frente do portão principal, banhando os dois guardas trolls em chamas e fúria:<br>--É disso que eu estou falando!--disse Rogério, saltando das costas de Jorge e chutando a porta<br>Cavaleiro e guardião adentraram a torre, mas logo dão de encontro com um gigantesco ogro verde, portando uma longa espada prateada e um sorriso terrível.<br>O ogro ataca Rogério, o cavaleiro defende, Jorge usa a oportunidade para...",
+        "opcoes": ["Morder a cabeça do Ogro", "Morder a mão do Ogro"],
+        "proxima1": "1122112121",
+        "proxima2": "1122112122"
+    },
+    "1122112121": {
+        "titulo":"<h2>Morder a cabeça!</h2>",
+        "texto":"Jorge se adianta sobre a cabeça do ogro, mas a besta recua no último momento, sorri e desfere um golpe mortal... que é defletido pela armadura!<br>--Não terá essa sorte de novo!<br>Era verdade, a armadura estava muito avariada para suportar outro golpe certeiro.<br>Naquele momento, Jorge vê Rogério se adiantando por trás do ogro e decide...",
+        "opcoes": ["Atacar novamente!", "Recuar e servir de isca!"],
+        "proxima1": "11221121211",
+        "proxima2": "11221121212"
+    },
+    "11221121211": {
+        "titulo":"<h2>Mais uma vez!</h2>",
+        "texto":"Tomado pela fúria, Jorge lança um segundo ataque, dessa vez, no entanto, o ogro facilmente manobra ao redor do dragão e corta sua cabeça em um único e limpo golpe.<br>--JORGE!!!!<br>Sem o dragão, o cavaleiro logo sucumbe e a dupla se torna memórias de tudo que poderia ter sido. <h2>Maldok venceu!</h2>",
+        "opcoes": ["Atacar novamente!", "Recuar e servir de isca!"],
+        "proxima1": "11221121211",
+        "proxima2": "11221121212"
+    },
+    "11221121212": {
+        "titulo":"<h2>Isca!</h2>",
+        "texto":"Jorge recua. O ogro avança. Rogério ataca!<br>--AHHH!!!<br>O ogro cai morto, sua gigantesca espada tombando no chão, emitindo um grande barulho metálico:<br>--Viu o que eu fiz!?--perguntou Rogério<br>--Só por que eu estava aqui para ajudar, não é?<br>O cavaleiro fez um muxoxo, o dragão sorriu e a dupla começou a arduosa tarefa de escalar as centenas de degraus de pedra.<br>No início, era fácil, mas aos poucos, foi ficando...<br>--Estranho... onde estão todos?<br>Rogério estava certo em temer, pois das sombras, saltou um cavaleiro negro, idêntico aquele de mais cedo:<br>--Traidor imundo!<br>Com apenas um segundo para pensar, Jorge decide...",
+        "opcoes": ["Fogo!", "Recuar!"],
+        "proxima1": "112211212121",
+        "proxima2": "112211212122"
+    },
+    "112211212121": {
+        "titulo":"<h2>Fogo!</h2>",
+        "texto":"Jorge reune o fôlego e dispara um dilúviu de chamas, mas o cavaleiro negro estava preparado.<br>O espadachim se lançou no chão, desviou das chamas e cravou a espada na perna do dragão.<br>--AHHHH!!!!<br>Um osso quebrou, sangue jorrou, Rogério se adiantou contra o espadachim antes que outro ataque viesse.<br>Ferido, mas consciente, Jorge decide...",
+        "opcoes": ["Morder a cabeça do espadachim!", "Flanquear o espadachim e deixar Rogério acabar com ele!"],
+        "proxima1": "1122112121211",
+        "proxima2": "1122112121212"
+    },
+    "1122112121211": {
+        "titulo":"<h2>Fogo!</h2>",
+        "texto":"[CONTINUA DAQUI!]",
+        "opcoes": ["Morder a cabeça do espadachim!", "Flanquear o espadachim e deixar Rogério acabar com ele!"],
+        "proxima1": "1122112121211",
+        "proxima2": "1122112121212"
+    },
+    "1122112122": {
+        "titulo":"<h2>Morder a mão!</h2>",
+        "texto":"[CONTINUA DAQUI!]",
+        "opcoes": ["Reiniciar aventura?", "Reiniciar aventura?"],
+        "proxima1": "7",
+        "proxima2": "7"
+    },
+    "112212": {
+        "titulo":"<h2>Ajuda!</h2>",
+        "texto":"--Um inimigo abaixo senhor! Precisamos nos aproximar!<br>Rapidamente, Jorge fez um parafuso na direção de Rogério, acertou o chão e gritou:<br>--Rogério, me ajuda!<br>--Traidor!<br>O cavaleiro negro ergueu sua espada, mas Rogério o atacou, derrubando-o das costas do dragão. Diante disso, Jorge decide...",
+        "opcoes": ["Fugir!", "Atacar o cavaleiro negro!"],
+        "proxima1": "1122121",
+        "proxima2": "1122122"
+    },
+    "1122122": {
+        "titulo":"<h2>Mordida!</h2>",
+        "texto":"Destraído com a lâmina do cavaleiro, o cavaleiro negro nem percebe as mandíbulas de Jorge se abrindo para liberar uma tempestade de fogo.<br>Em segundos, nada sobra do cavaleiro negro senão um par de botas de ferro fumegantes:<br>--Jorge, o que você está fazendo aqui?<br>Jorge olha para Rogério, reflete por um instante e diz...",
+        "opcoes": ["Fugindo!", "Vim me juntar a vocês!"],
+        "proxima1": "1122121",
+        "proxima2": "1122112"
+    },
+    "1122121": {
+        "titulo":"<h2>Fugitivo!</h2>",
+        "texto":"Vendo sua chance, Jorge abra as asas e corta os céus. Antes que perceba, já está há muitos quilômetros de toda a morte e destruição.<br>--Me desculpe, Rogério...<br>Jorge fugiu para as Montanhas Azuis onde montou um pequeno porém belo ninho. No início, sua vida era simples, mas ano após ano, mas fugitivos chegavam contando estórias sobre cidades destruídas e campos queimados. Maldok expandia seu Império e não havia ninguém para detê-lo.<h2>Maldok venceu!</h2>",
+        "opcoes": ["Fugir!", "Atacar o cavaleiro!"],
+        "proxima1": "7",
+        "proxima2": "7"
+    },
+    "11222": {
         "titulo":"<h2>Respira fundo!</h2>",
         "texto":"Jorge respirou fundo, fez um parafuso e seguiu direto para o rio:<br>--Acha que vai se livrar de mim tão fácil!?<br>O cavaleiro desembainhou sua espada e perfurou as costas de Jorge, matando-o em pleno ar.<br>Cavaleiro negro e dragão caíram na água e morreram afogados, se tornando memórias do que poderia ter sido. <h2>Maldok venceu!</h2>",
         "opcoes": ["Reinicar aventura?", "Reinicar aventura?"],
