@@ -86,7 +86,8 @@
 <body>
   <h1 class="eraUmaVez" id="eraUmaVez"></h1>
   <br>
-
+  <p class="capitulo" id="introducao"></p>
+  <br>
   <div id="texto-estoria"></div>
 
   <div id="texto-estoria"></div>
@@ -94,8 +95,8 @@
   <div id="texto-opcoes"></div>
   <br>
   <div id="options" class="escolhas">
-    <button onclick="escolha(1)" id="option1" class="button button1">um dragão!</button>
-    <button onclick="escolha(2)" id="option2" class="button button2">um cavaleiro!</button>
+    <button onclick="escolha(1)" id="option1" class="button button1"></button>
+    <button onclick="escolha(2)" id="option2" class="button button2"></button>
   </div>
 
   <script>
@@ -121,7 +122,18 @@
                 
                 // INICIALIZANDO A PÁGINA
                 let titulo = document.getElementById('eraUmaVez');
-                titulo.textContent = capitulosDaEstoria.titulo;
+                titulo.textContent = capitulosDaEstoria["0"].titulo;
+
+                if (capitulosDaEstoria["0"].texto == "") {
+                  const primeiroCapitulo = document.getElementById("introducao");
+                  primeiroCapitulo.remove();
+                } else {
+                  let texto = document.getElementById('introducao');
+                  texto.textContent = capitulosDaEstoria["0"].texto;
+                }
+
+                updateButtonText("option1", capitulosDaEstoria["0"].opcoes[0]);
+                updateButtonText("option2", capitulosDaEstoria["0"].opcoes[1])
             })
             .catch(error => {
                 // Log any errors that occur

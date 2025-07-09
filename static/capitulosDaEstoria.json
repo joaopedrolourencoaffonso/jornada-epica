@@ -1,16 +1,22 @@
 {
-    "titulo": "Era uma vez...",
     "0": {
-        "titulo":"a",
-        "texto":"b",
-        "opcoes": ["c", "d"],
+        "titulo": "O Dragão e o Cavaleiro",
+        "texto": "Entre as montanhas Azuis e o Lago da Serpente, se erguia uma floresta jovem e verdejante. Sua terra era lamacenta, mas seu ar era fresco e a todo momento podia se ouvir a sinfonia da vida: pássaros, monstros, pessoas, muitos habitantes, de muitos tipos diferentes, incluindo...",
+        "opcoes": ["um dragão!", "um cavaleiro!"],
         "proxima1": "1",
         "proxima2": "2"
     },
     "1": {
         "titulo":"<h2>um Dragão chamado Jorge!</h2>",
-        "texto":"Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando um dia, ouviu um barulho por entre as árvores:",
-        "opcoes": ["Aquilo era muito perigoso e ele prefiria ficar em casa", "Ele iria atrás da estrela, imediatamente"],
+        "texto":"Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando um dia, ouviu um barulho por entre as árvores e avistou um cavaleiro de armadura brilhante!<br>Imediatamente, ele se lembrou de todas as estórias de cavaleiros matadores de dragão e seu coração se encheu de medo, mas aí, lembrou-se de todos os humanos que haviam se perdido, inocentemente na floresta e só estavam de passagem. <br>Assustado e confuso, Jorge decidiu...",
+        "opcoes": ["Cuspir fogo no cavaleiro!", "Conversar com o cavaleiro."],
+        "proxima1": "11",
+        "proxima2": "12"
+    },
+    "11": {
+        "titulo":"<h2>Fogo!</h2>",
+        "texto":"Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando um dia, ouviu um barulho por entre as árvores e avistou um cavaleiro de armadura brilhante!<br>Imediatamente, ele se lembrou de todas as estórias de cavaleiros matadores de dragão e seu coração se encheu de medo, mas aí, lembrou-se de todos os humanos que haviam se perdido, inocentemente na floresta e só estavam de passagem. <br>Assustado e confuso, Jorge decidiu...",
+        "opcoes": ["Cuspir fogo no cavaleiro!", "Conversar com o cavaleiro."],
         "proxima1": "11",
         "proxima2": "12"
     },
