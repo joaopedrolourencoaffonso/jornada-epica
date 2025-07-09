@@ -84,8 +84,10 @@
   </style>
 </head>
 <body>
-  <h1 class="eraUmaVez">Era uma vez...</h1>
+  <h1 class="eraUmaVez" id="eraUmaVez"></h1>
   <br>
+
+  <div id="texto-estoria"></div>
 
   <div id="texto-estoria"></div>
 
@@ -116,13 +118,17 @@
                 // Log the fetched data
                 console.log(data);
                 capitulosDaEstoria = data;
+                
+                // INICIALIZANDO A PÁGINA
+                let titulo = document.getElementById('eraUmaVez');
+                titulo.textContent = capitulosDaEstoria.titulo;
             })
             .catch(error => {
                 // Log any errors that occur
                 console.error("Network or parsing error:", error);
             });
     };
-
+    
     function escolha(option) {
       if (option == 1) {
         proxima = capitulosDaEstoria[proxima].proxima1;
@@ -142,8 +148,9 @@
       try {
         paragraph.innerHTML = `${capitulosDaEstoria[temp].titulo} ${capitulosDaEstoria[temp].texto}`;
       } catch(err) {
-        paragraph.innerHTML = `Erro, falta capítulo da estória!`;
-        window.location.reload();
+        temp = 7;
+        paragraph.innerHTML = `${capitulosDaEstoria[temp].titulo} ${capitulosDaEstoria[temp].texto}`;
+        //window.location.reload();
       }
       //paragraph.appendChild(node);
       newDiv.appendChild(paragraph)
