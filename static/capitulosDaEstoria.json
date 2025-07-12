@@ -1,7 +1,7 @@
 {
     "0": {
         "titulo": "O Dragão e o Cavaleiro",
-        "texto": "Entre as montanhas Azuis e o Lago da Serpente, se erguia uma floresta jovem e verdejante. Sua terra era lamacenta, mas seu ar era fresco e a todo momento podia se ouvir a sinfonia da vida: pássaros, monstros, pessoas, muitos habitantes, de muitos tipos diferentes, incluindo...",
+        "texto": "Entre as montanhas Azuis e o Lago dos Trolls, se erguia uma floresta jovem e verdejante. Sua terra era lamacenta, mas seu ar era fresco e a todo momento podia se ouvir a sinfonia da vida: pássaros, monstros, pessoas, muitos habitantes, de muitos tipos diferentes, incluindo...",
         "opcoes": ["um dragão!", "um cavaleiro!"],
         "proxima1": "1",
         "proxima2": "2"
@@ -44,12 +44,12 @@
     "12112": {
         "titulo":"<h2>Fogo!</h2>",
         "texto":"Jorge abriu as mandíbulas, respirou fundo e cuspiu uma tempestade de fogo que a floresta jamais vira antes.<br>Ao final, tudo que sobrava eram pedras tingidas de negro, um ganso frito e um Rogério furioso:<br>--SEU IDIOTA!--disse Rogério, dando um tapa na cabeça do dragão--POR QUE VOCÊ FEZ ISSO, ERA PARA LEVAR O GANSO COM VIDA!<br>--M-m-mas, você não disse isso!<br>--ESTAVA SUBTENDIDO!<br>--A PALAVRA 'CAÇAR' É SOBRE MATAR! PARA COMER! VOCÊ DEVIA TER USADO ALGO COMO 'ENCONTRAR' OU...<br>--POR QUE A RAINHA IRIA PEDIR PARA EU MATAR O GANSO!?--POR QUE A RAINHA IRIA PEDIR PARA VOCÊ CAÇAR UM GANSO COM UMA ENXARPE ROSA?<br>Um breve silêncio mais tarde, Rogério respondeu:<br>--Touchet... mas o que fazemos agora?",
-        "opcoes": ["Assumir a derrota e ser sincero com a rainha", "Cuspir fogo!"],
-        "proxima1": "12111",
-        "proxima2": "12112"
+        "opcoes": ["Assumir a derrota e ser sincero com a rainha!", "Ganso substituto!"],
+        "proxima1": "1211111",
+        "proxima2": "1211112"
     },
     "12111": {
-        "titulo":"<h2>Quanto mais cedo, melhor!</h2>",
+        "titulo":"<h2>Rogério sabe!</h2>",
         "texto":"--Jorge, você vai pela direita e eu cubro a esquerda!<br>--Tá! E quando eu cuspo fogo?<br>Foi naquele momento que o ganso se voltou para eles assustado:<br>--Não, nada de fogo! Vamos apenas...<br>--<b>HONK! HONK!</b><br>O ganso partiu para cima do cavaleiro como uma fera, usando suas asas para subir no ar apenas o suficiente para bicar seu nariz. Tão logo o cavaleiro caiu, foi a vez do dragão, o qual, incapaz de pensar em qualquer coisa senão fogo, recuou até bater a cabeça na parede de pedra atrás de si.<br>Com os inimigos derrotados, o ganso escapou da caverna e desapareceu na floresta.<br>--Mas que droga aconteceu?--choramingou Rogério<br>--Acho que nossa incompetência foi esfregada em nossas caras.<br>--Cala a boca! Aff! O que fazemos agora?<br>Jorge pensou: já era de noite e sair poderia ser perigoso e ambos já estavam bem cansados, mas por outro lado, se a noite caísse e o ganso não estivesse com eles, poderia acabar na barriga de um animal. Após alguma consideração, Jorge decidiu por...",
         "opcoes": ["Dormir e recuperar as forças!", "Capturar o ganso de um jeito ou de outro!"],
         "proxima1": "121111",
@@ -63,18 +63,60 @@
         "proxima2": "1211112"
     },
     "1211111": {
-        "titulo":"<h2>Recuperando as energias!</h2>",
-        "texto":"--Quer saber de uma coisa? Você está certo! Estou exausto demais para isso agora! Amanhã encontramos aquele demoniozinho!<br>O cavaleiro e o dragão se aconchegaram na pilha de palha...<br>--Não é uma pilha de palha! É meu tesouro! Eu levei anos juntando!<br>--Ah, sim! Sim! Que bela pilha de tesouro! Eu peço perdão!<br>--Perdoado!--disse Jorge sorridente<br>Uma bela noite de sonhos mais tarde, despertaram, realizaram o dejejum, quando, imediatamente ao sair da caverna, sentiram o cheiro de sangue...<br>--Tá de sacanagem...<br>A pouco menos de um minuto da entrada da caverna, jazia o cadáver ensanguentado de um ganso com uma enxarpe vermelha, cercado por gigantescas marcas de garras e patas.<br>--Bem, acho que isso foi tudo para nada, não é?<br>O cavaleiro caiu de bunda no chão e ficou sentado, com as mãos na cabeça, murmurando coisas para si mesmo.<br>--Ele devia estar precisando do dinheiro...--pensou Jorge, se arrependendo de sua ideia anterior<br>Após alguma meditação, o dragão disse:",
-        "opcoes": ["Vamos contar a verdade à rainha e cortar nossos prejuízos", "Vamos capturar outro ganso e dizer que era o mesmo!"],
-        "proxima1": "12111111",
-        "proxima2": "12111112"
+        "titulo":"<h2>Verdade</h2>",
+        "texto":"--Acho que você tem razão... se bem que... não, é melhor aceitar o prejuízo...<br>Rogério se levantou, respirou fundo e apenas complementou:<br>--Obrigado por nada, jacaré.<br>Rogério desapareceu na floresta deixando Jorge sozinho com seus pensamentos.<br>Aquela foi a última vez que os dois se viram e apesar de as vezes ele imaginar o que poderia ter sido, Jorge passou o restante de seus dias vivendo uma vida simples e agradável.<h2>Sem ganso, sem vitória!</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
     },
-    "12111111": {
-        "titulo":"<h2>[CONTINUAR DAQUI!]</h2>",
-        "texto":"--Quer saber de uma coisa? Você está certo! Estou exausto demais para isso agora! Amanhã encontramos aquele demoniozinho!<br>O cavaleiro e o dragão se aconchegaram na pilha de palha...<br>--Não é uma pilha de palha! É meu tesouro! Eu levei anos juntando!<br>--Ah, sim! Sim! Que bela pilha de tesouro! Eu peço perdão!<br>--Perdoado!--disse Jorge sorridente<br>Uma bela noite de sonhos mais tarde, despertaram, realizaram o dejejum, quando, imediatamente ao sair da caverna, sentiram o cheiro de sangue...<br>--Tá de sacanagem...<br>A pouco menos de um minuto da entrada da caverna, jazia o cadáver ensanguentado de um ganso com uma enxarpe vermelha, cercado por gigantescas marcas de garras e patas.<br>--Bem, acho que isso foi tudo para nada, não é?<br>O cavaleiro caiu de bunda no chão e ficou sentado, com as mãos na cabeça, murmurando coisas para si mesmo.<br>--Ele devia estar precisando do dinheiro...--pensou Jorge, se arrependendo de sua ideia anterior<br>Após alguma meditação, o dragão disse:",
-        "opcoes": ["Vamos contar a verdade à rainha e cortar nossos prejuízos", "Vamos capturar outro ganso e dizer que era o mesmo!"],
-        "proxima1": "121111111",
-        "proxima2": "121111112"
+    "1211112": {
+        "titulo":"<h2>Mentira</h2>",
+        "texto":"--Outro ganso? Você está doido!? É óbvio que a rainha vai descobrir!<br>--Por que descobriria? Eu já devorei vários gansos e nunca notei a menor diferença entre eles! E você, notou?<br>Rogério abriu a boca, mas logo a fechou. Estava visivelmente irritado, dentre muitos motivos, porque o argumento fazia sentido:<br>--Se seguissemos essa ideia... tudo de que iríamos precisar seria uma enxarpe rosa e... um ganso, não é isso?<br>--Exato! Seria idêntico!<br>Rogério olhou para seus próprios pés, depois para o céu, depois para o horizonte e por fim, esticou os braços no formato de 'V' e gritou bem alto:<br>--DROGA!...Vamos nessa! Primeiro lugar: onde encontraremos um ganso igualzinha aquele?<br>Jorge parou e pensou, poderiam tentar o lago novamente (por pior que a ideia lhe parecesse) <i>ou</i> podiam tentar comprar um ganso parecido no caminho da cidade. Após alguma consideração, decidiu por...",
+        "opcoes": ["Caçar no lago!", "Comprar um ganso"],
+        "proxima1": "12111121",
+        "proxima2": "12111122"
+    },
+    "12111121": {
+        "titulo":"<h2>Lago!</h2>",
+        "texto":"Dragão e cavaleiro avançaram por entre as árvores em direção ao azul do lago. A cada passo, podiam sentir a terra mais molhada, atmosfera mais pesada, os pássaros mais agitados:<br>--Cuidado...--disse Rogério, pausando o avanço de Jorge--...está vendo! Uma armadilha camuflada no chão! Uma dessas pode arrancar sua pata fora!<br>--Eles reforçaram a segurança desde a última vez!<br>Após várias horas estressantes e cautelosas ouviram o som que aos seus ouvidos soou como o canto das sereias:<br>--HONK! HONK!<br>O ganso estava se banhando numa lagoa pouco maior que uma poça enquanto cavaleiro e dragão avançavam vagarosamente em sua direção:<br>--Tudo bem, Jorge, você vai lançar fogo naquela direção  e quando o ganso voar, eu meto ele nessa sacola, entendeu?<br>Jorge acenou com a cabeça e lentamente marchou para sua posição, quando, de repente, ouviu o som de sinos: ele havia pisado num alarme!<br>--QUEM VEM LÁ!?!?<br>Era voz de Trollmor, o troll senhor daquelas terras, correndo em sua direção. Jorge sabia que se cuspisse fogo agora, não teria com o que se defender de Trollmor, mas caso contrário, a chance de pegar o ganso era mínima. Após poucos segundos, Jorge decidiu...",
+        "opcoes": ["Cuspir Fogo!", "Atacar o ganso com suas garras"],
+        "proxima1": "121111211",
+        "proxima2": "121111212"
+    },
+    "121111211": {
+        "titulo":"<h2>Fogo (de novo)!</h2>",
+        "texto":"Jorge abriu suas mandíbulas e ejetou uma tormenta infernal que aterrorizou o pobre ganso para a direção exata onde Rogério o aguardava:<br>--PEGUEI!<br>--Ótimo, agora vamos sair daqui antes que...<br>Estrondos contra terra. Uma árvore foi derrubada com um soco para dar passagem para um colosso de pegagem cinza, chifres negros, face longa com dentes afiados. Numa mão, trazia uma clava, na outra, um escudo:<br>--LADRÕES!<br>--A floresta é terra de caça livre!--disse Rogério, erguendo a espada apesar dos tremores de sua mão--...Essa é uma tradição antiga que...<br>--A FLORESTA É MIMNHA!<br>Trollmor avançou, Rogério deviou, Jorge decidiu...",
+        "opcoes": ["Cuspir Fogo!", "Morder a perna do troll"],
+        "proxima1": "1211112111",
+        "proxima2": "1211112112"
+    },
+    "1211112111": {
+        "titulo":"<h2>Fogo, de novo!?</h2>",
+        "texto":"Jorge abriu suas mandíbulas e ejetou uma patética nuvem de fumaça:<br>--Esqueci, já usei meu fogo!<br>--HEHEHE!<br>Antes que Jorge tivesse tempo de recuar, Trollmor avançou, saltou no ar e num único golpe, rachou o crânio do dragão. Sem ajuda, Rogério não resistiu muito tempo e o ganso acabou como jantar de um troll bem feliz consigo mesmo. <h2>Trollmor vive feliz para sempre!</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "1211112112": {
+        "titulo":"<h2>Mordida!</h2>",
+        "texto":"Trollmor estav distraído, Jorge não. Abriu suas mandíbulas e atacou a perna do troll, que perdeu o equilíbrio e caiu no chão.<br>--MALDITOS!<br>Trollmor tentou se erguer, Rogério avançou para um golpe na cabeça, mas o troll bloqueou, mesmo assim, ele seguia exposto.<br>Jorge sabia que se atacasse agora, podia derrotar o troll, mas onde atacar?",
+        "opcoes": ["Pescoço!", "Costas!"],
+        "proxima1": "12111121121",
+        "proxima2": "12111121122"
+    },
+    "12111121121": {
+        "titulo":"<h2>Pescoço!</h2>",
+        "texto":"Jorge larga a perna, avança sobre as costas peluas do colosso e finca os dentes na pescoço da besta.<br>--AHHHH!!!<br>Rogério aproveita a oportunidade e atravessa o coração do troll que cai morto no chão:<br>--Que supresa...--disse Rogério, ainda recuperando o fôlego<br>--O que?<br>--Você não é de todo inútil!<br>--Ah, obri... espera aí...<br>Antes que terminasse a frase, ao longe, podiam ouvir vozes e sons de passos, os servos de trollmor se aproximavam.<br>Dragão e cavaleiro se retiraram de lá o mais rápido que puderam e antes que notassem já estavam na estrada para o castelo.<br>--aff...aff...Tudo bem...aff... Eu vou precisar de um banho... Tudo bem, agora, precisamos de uma enxarpe rosa...aff... Nossas opções são o mercado ou o alfaite...<br>--Faz alguma diferença?<br>--Bem... o mercado é cheio de pessoas e elas podem ficar... você sabe...<br>--Ah... Tudo bem...<br>--Não os culpe é que...<br>--Eu boto fogo nas coisas, eu sei, eu sei...--Rogério pode notar a tristeza nos olhos de Jorge--...E qual a outra opção?<br>--Bem, seria o alfaiate, mas... não gosto daquele homem... Mesmo quando está feliz, os olhos dele são como de um lobo acuado... O que me diz?<br>Jorge refletiu um pouco e decidiu por...",
+        "opcoes": ["Arriscar com o mercado", "Falar com o alfaiate!"],
+        "proxima1": "121111211211",
+        "proxima2": "121111211212"
+    },
+    "121111211211": {
+        "titulo":"<h2>Às compras!</h2>",
+        "texto":"[CONTINUAR DAQUI!]",
+        "opcoes": ["Arriscar com o mercado", "Falar com o alfaiate!"],
+        "proxima1": "1211112112111",
+        "proxima2": "1211112112112"
     },
     "2": {
         "titulo":"<h2>um cavaleiro chamado Rogério!</h2>",
