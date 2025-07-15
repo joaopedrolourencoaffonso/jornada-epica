@@ -113,10 +113,45 @@
     },
     "121111211211": {
         "titulo":"<h2>Às compras!</h2>",
-        "texto":"[CONTINUAR DAQUI!]",
-        "opcoes": ["Arriscar com o mercado", "Falar com o alfaiate!"],
+        "texto":"Imagine uma pequena coleção de cabanas de madeira, algumas belas, outras nem tanto, dispostas num formato vagamente circular. Imagine no meio delas, um oceano de tendas, repleto de pessoas de todas as partes, vestindo roupas de todas as cores e cantando músicas de todos os tipos. Agora imgine que algumas dessas pessoas comecem a gritar: 'JACARÉ!' e correr em pânico:<br>--Não é tão ruim.<br>--disse Jorge, recebendo e ignorando uma ovada na cara<br>--Volta, para, a, floresta.<br>--Tudo bem. Tudo bem...<br>Jorge voltou para a floresta e ficou lá, sozinho com os próprios pensamentos quando ouviu dois comerciantes descendo pela estrada ao lado:<br>--Realmente, o rei tem estado muito estranho...<br>--Eu sei não é!? Outro dia pegaram ele sentado no chafariz do palácio, por horas, que nem um louco! E me disseram que...<br> Jorge não conseguiu ouvir o resto da conversa, a medida que eles se afastaram, mas aquilo lhe deixou com a pulga atrás da orelha. Alguns instantes mais tarde, quando Rogério apareceu com a enxarpe numa mão e o ganso na outra, Jorge decidiu...",
+        "opcoes": ["Não tocar no assunto", "Perguntar sobre os boatos que ouviu"],
         "proxima1": "1211112112111",
         "proxima2": "1211112112112"
+    },
+    "1211112112111": {
+        "titulo":"<h2>Não é problema de dragão!</h2>",
+        "texto":"Os problemas de reis e rainhas nunca foram problemas seus e Jorge não estava interessado em mudar isso. Em vez disso, observou Rogério enrolar a enxarpe no ganso e quando este terminou, apenas disse:<br>--Não está horrível!<br>--De fato, podia ser pior<br>Podia mesmo.<br>Feito isso, os dois seguiram pela estrada até havistarem os muros azuis de Elsara, a capital do reino. Os guardas ficaram assustados com Jorge, mas Rogério os acalmou e a dupla foi logo conduzida pelo mar de casas de madeira tingidas de vermelho e dourado até chegar ao luxuoso palácio real, com seus tijolos brancos e tetos em abóboda.<br>Após alguma espera numa luxuosa antecâmara coberta por pinturas de grandes batalhas e feitos heróicos, ouviram as palavras:<br>--A Rainha aguarda sua presença!<br>--Rogério, eu tive um pressentimento estranho que...<br>--Xii!! Já fomos longe demais para volta agora. Seja homem e... seja um dragão e aguenta!<br>Os dois respiraram fundo e adentraram a suntuosa sala real onde dois tronos dourados dominavam a cena, o primeiro, continha a rainha, vestindo uma armadura dourada, no segundo, o rei, quase nu, amarrado ao seu trono:<br>--Ele não fica quieto de outra maneira.--ela disse, adiantando a pergunta--...Me mostrem o alvo.<br>Dragão e cavaleiro se entreolharam brevemente, respiraram fundo e tiraram o ganso com a enxarpe (agora cheia de mordidas) do saco:<br>--Esse não é o ganso certo, caçador, e você sabe disso...--sua voz era enfadonha, como se disse o óbvio--...Por que me trouxe isso?<br>Rogério abriu a boca, mas não saiu resposta. Vendo que precisava agir, Jorge disse:",
+        "opcoes": ["NÓS MATAMOS O GANSO!", "Está nos acusando de mentir!?"],
+        "proxima1": "12111121121111",
+        "proxima2": "12111121121112"
+    },
+    "12111121121112": {
+        "titulo":"<h2>Mentirosos!</h2>",
+        "texto":"[CONTINUE DAQUI!!!]",
+        "opcoes": ["NÓS MATAMOS O GANSO!", "Está nos acusando de mentir!?"],
+        "proxima1": "12111121121111",
+        "proxima2": "12111121121112"
+    },
+    "12111121121111": {
+        "titulo":"<h2>Verdade!</h2>",
+        "texto":"--POR FAVOR! NOS PERDOE! NÓS FALHAMOS E PEDIMOS CLEMÊNCIA!<br>--JORGE!--disse Rogério com o rosto coberto de suór frio<br>--Calem-se.<br>Eles se calaram e observaram a rainha fazer um moxox, olhar para as próprias mãos e resmungar:<br>--Tá, tudo bem... vamos fazer o seguinte: mil moedas de ouro ao invés de duas mil, o que você acha, caçador?<br>Rogério suspirou de alívio, como se a guilhotina tivesse errado sua cabeça por um triz.<br>Jorge, no entanto, não pode deixar de notar:<br>--DUAS MIL! VOCÊ DISSE QUE ELES IAM TE PAGAR TREZENTAS!<br>Rogério revirou os olhos:<br>--Eu não lembro de dizer isso.<br>--Disse sim.<br>--Então por que eu não lembro?<br>--MAS EU LEMBRO! EU LEMBRO QUE...<br>Um forte vento tomou a sala, as tochas se apagaram e o próprio chão tremeu:<br>--Peguem o dinheiro e vão.<br>Dragão e cavaleiro se calaram, fizeram uma reverência e sumiram de vista o mais rápido o possível.<br>Uma vez pagos, Rogério disse:<br>--Sabe, você até que sabe pensar rápido para um dragão com cara de jacaré.<br>--Obrigado! Você também não foi inútil.<br>Rogério mordeu o lábio, mas seguiu:<br>--O que acha de formarmos uma sociedade? Seu fogo e minha espada, juntos, podem qualquer coisa!<br>Pego de surpresa, Jorge parou por um momento para refletir antes de responder...",
+        "opcoes": ["EBA! VAMOS SER AMIGOS!", "Obrigado, mas eu gosto da minha vida como está!"],
+        "proxima1": "121111211211111",
+        "proxima2": "121111211211112"
+    },
+    "121111211211111": {
+        "titulo":"<h2>Amigos!</h2>",
+        "texto":"--Aff... é, acho que pode dizer que seríamos amigos!<br>Jorge pulou no ar de alegria:<br>--Então está combinado! 'Jorge e Rogério', aventureiros profissionais!<br>--Por que seu nome viria primeiro?<br>--Ordem alfabética<br>--Oh<br>E assim, Jorge e Rogério (marca registrada) seguiram mundo à fora, se aventurando por castelos perigosos e cavernas assombradas pelo preço certo. Suas reputações cresceriam e se tornariam lendárias, mas, de tempos em tempos, sempre receberiam notícias do Reino de Elsara e sua Rainha tirana, obsecada na conquista de seus vizinhos. Essas guerras, inicialmente bem sucedidas, viriam a um fim terrível, quando uma aliança de muitos reinos trouxesse a destruição ao Reino de Elsara e a miséria aos seus habitantes. <h2>Carreias de sucesso!</h2>",
+        "opcoes": ["Use 'ctrl + R'","para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "121111211211112": {
+        "titulo":"<h2>Vida na floresta!</h2>",
+        "texto":"--É compreensível. Nesse caso, te desejo uma vida de paz e riqueza, bom amigo.<br>--O mesmo para você, nobre cavaleiro!<br>Com sorrisos e sacos de ouro, dragão e cavaleiro se separaram para nunca mais ver um ao outro. Jorge, no entanto, ainda ouviria falar do grande cavaleiro Rogério, que desbrava castelos e cavernas amaldiçoadas pelo preço certo, até que um dia, as estórias pararam de aparecer.<br>Isso deixou Jorge triste, mas a vida na floresta não era para os emotivos e seguiu como sempre, ou pelo menos teria seguido se não fossem as guerras sem fim da rainha louca.<br>Ano após ano, mais fazendeiros eram recrutados para seu terrível exército e desgraça só teve fim quando uma aliança de reinos trouxe a destruição para Elsara. Jorge, felizmente, conseguiu sobreviver a tudo, mas as terras entre as Montanhas Azuis e o Lago dos Trolls nunca mais foram as mesmas <h2>Vida não muito pacífica!</h2>",
+        "opcoes": ["Use 'ctrl + R'","para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
     },
     "2": {
         "titulo":"<h2>um cavaleiro chamado Rogério!</h2>",
