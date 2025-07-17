@@ -118,12 +118,110 @@
         "proxima1": "121111211211",
         "proxima2": "121111211212"
     },
+    "121111211212": {
+        "titulo":"<h2>O Alfaiate!</h2>",
+        "texto":"--Aff...Tá bem, mas não confiou naquele sujeito!<br>Se puseram a marchar e em poucas horas, estavam diante de um luxuoso chalé de madeira, com uma chaminé vermelha cuspinado uma fumaça mais negra que o comum.<br>O cavaleiro bateu à porta e um senhor de meia idade, barba cinza e vestes roxas abriu:<br>--Um cavaleiro e um dragão! Dupla rara! O que desejam!<br>--Precisamos de uma enxarpe rosa, pagamos o que quiser<br>--Uma enxarpe?<br>--HONK! HONK!<br>Os olhos do homem rapidamente se voltaram para a sacola com o ganso, então, um sorriso se formou em sua face, se virou para a dupla e disse:<br>--Tal como aquele no pescoço do ganso que todos estão procurando?<br>Dragão e cavaleiro se entreolharam. Aquele homem definitivamente não era confiável, mas o que ele iria querer?<br>Após pensar um pouco, Jorge decidiu dizer...",
+        "opcoes": ["Vou advinhar, você quer uma parte?", "A princesa está caçando um ganso?"],
+        "proxima1": "1211112112121",
+        "proxima2": "1211112112122"
+    },
+    "1211112112121": {
+        "titulo":"<h2>Sócios</h2>",
+        "texto":"--Eu? Uma parte? Não! Não! Hehehe... Só um pouco de curiosidade, só isso!<br>--E quanto vai custar?--perguntou Rogério<br>--Hum... Esperem um pouco...--a porta se fechou por alguns instantes e então se reabriu, expondo o alfaiate com uma enxarpe rosa muito mais bela que a anterior--...Vinte moedas de ouro!<br>Jorge sorriu de felicidade, mas quando olhou para Rogério, viu que seu rosto estava fechado:<br>--Só vinte moedas? É tudo isso que você quer?<br>--Um preço justo por um produto de alta qualidade!<br>--Essa enxarpe é um pouco diferente da descrição da rainha.<br>--Ela não vai se importar.<br>Rogério olhou para o dragão, seus olhos não deixavam dúvida de que sua mente estava repleta de dúvidas. Após alguma meditação, Jorge disse:",
+        "opcoes": ["Eu acho melhor tentarmos o mercado.", "Vamos aceitar!"],
+        "proxima1": "12111121121211",
+        "proxima2": "12111121121212"
+    },
+    "12111121121211": {
+        "titulo":"<h2>Obrigado, mas não!</h2>",
+        "texto":"O alfaiate fez uma cara feia, mas não insistiu, fazendo uma breve reverência e fechando a porta. Alguns minutos mais tarde, Jorge estava deitado na floresta, aguardando Rogério retornar do mercado, quando ouviu dois comerciantes descendo pela estrada ao lado:<br>--Realmente, o rei tem estado muito estranho...<br>--Eu sei não é!? Outro dia pegaram ele sentado no chafariz do palácio, por horas, que nem um louco! E me disseram que...<br> Jorge não conseguiu ouvir o resto da conversa, a medida que eles se afastaram, mas aquilo lhe deixou com a pulga atrás da orelha. Alguns instantes mais tarde, quando Rogério apareceu com a enxarpe numa mão e o ganso na outra, Jorge decidiu...",
+        "opcoes": ["Não tocar no assunto", "Perguntar sobre os boatos que ouviu"],
+        "proxima1": "1211112112111",
+        "proxima2": "1211112112112"
+    },
     "121111211211": {
         "titulo":"<h2>Às compras!</h2>",
         "texto":"Imagine uma pequena coleção de cabanas de madeira, algumas belas, outras nem tanto, dispostas num formato vagamente circular. Imagine no meio delas, um oceano de tendas, repleto de pessoas de todas as partes, vestindo roupas de todas as cores e cantando músicas de todos os tipos. Agora imgine que algumas dessas pessoas comecem a gritar: 'JACARÉ!' e correr em pânico:<br>--Não é tão ruim.<br>--disse Jorge, recebendo e ignorando uma ovada na cara<br>--Volta, para, a, floresta.<br>--Tudo bem. Tudo bem...<br>Jorge voltou para a floresta e ficou lá, sozinho com os próprios pensamentos quando ouviu dois comerciantes descendo pela estrada ao lado:<br>--Realmente, o rei tem estado muito estranho...<br>--Eu sei não é!? Outro dia pegaram ele sentado no chafariz do palácio, por horas, que nem um louco! E me disseram que...<br> Jorge não conseguiu ouvir o resto da conversa, a medida que eles se afastaram, mas aquilo lhe deixou com a pulga atrás da orelha. Alguns instantes mais tarde, quando Rogério apareceu com a enxarpe numa mão e o ganso na outra, Jorge decidiu...",
         "opcoes": ["Não tocar no assunto", "Perguntar sobre os boatos que ouviu"],
         "proxima1": "1211112112111",
         "proxima2": "1211112112112"
+    },
+    "1211112112112": {
+        "titulo":"<h2>Boatos!</h2>",
+        "texto":"Algum tempo depois, Rogério chegou balançando uma enxarpe <i>quase</i> parecida com a do ganso da rainha e os dois começaram a seguir rumo à capital do reino:--Rogério... essa tal rainha... você notou algo estranho sobre ela?<br>--Como assim?<br>--É que eu ouvi uns homens conversando na floresta sobre umas coisas estranhas que estavam acontecendo no palácio e...<br>--Bem, não vou negar que as coisas tem estado estranhas em Elsara... Tudo umas noites atrás, quando um ganso maluco voou pela janela do castelo, acordando o rei e rainha. Em si, não seria nada demais, mas todos os empregados do castelo disseram que os gritos que saíram daquele quarto não eram como nada que haviam ouvido antes.<br>--Gritos de terror?<br>--Sim. Mas quando abriram as portas, o rei e a rainha estavam bem... ou pelo menos pareciam estar bem!<br>--Como assim?<br>--Bem, depois daquela noite, foi como se o rei tivesse perdido a cabeça. Ele anda por aí, balbuciando palavras sem nexo umas com as outras e comendo todo o pão que vê pela frente. Me disseram até que ele tem que ser amarrado para ficar no trono dele e são precisos cinco serviçais para fazê-lo se vestir após tomar banho... Mas essa não é a parte mais estranha...<br>--Não, é?<br>--Não, o mais estranho é que o ganso ficou voltando!<br>--O ganso que matamos? O ganso com a enxarpe?<br>--Sim! Depois de voar para fora naquela noite, ele ficou rondando o castelo por dias! Sempre tentando invadir o palácio, brigando com os guardas e tentando atacar a rainha quando tinha a chance. Me disseram que...<br>--Rogério...--disse Jorge, plenamente furioso--...Será que você não percebe!?!?!?...",
+        "opcoes": ["O GANSO ERA O REI!", "O GANSO ERA ALMADIÇOADO!"],
+        "proxima1": "12111121121121",
+        "proxima2": "12111121121122"
+    },
+    "12111121121121": {
+        "titulo":"<h2>MAJESTADE!?!?</h2>",
+        "texto":"Rogério parou onde estava, abriu sua boca, mas não conseguiu dizer nada, pois fazia sentido demais:<br>--Não... Não! Não faz sentido! Como poderia?<br>--Troca de almas!<br>--O que!?<br>--Feitiço de troca de almas! Minha mãe me falou dele quando eu ainda era filhote! É um feitiço complexo e muito perigoso, mas totalmente possível.<br>Rogério ficou pensando consigo mesmo, matutando o que havia acabado de ouvir:<br>--JORGE! VOCÊ ESTÁ CERTO!... Mas... isso quer dizer que o usurpador está no corpo da rainha!?<br>--Talvez seja uma usurpadora!<br>--Hum, sim, uma bruxa ao invés de bruxo. Mas o que vamos fazer agora?",
+        "opcoes": ["FALAR COM O IRMÃO DO REI", "PEDIR POR MAIS DINHEIRO!"],
+        "proxima1": "121111211211211",
+        "proxima2": "121111211211212"
+    },
+    "121111211211211": {
+        "titulo":"<h2>NOVA MAJESTADE!</h2>",
+        "texto":"--O rei não tinha irmãos que pudessem substituí-lo?<br>--Sim! O Duque de Elmor era irmão do Rei...Hehe, aquele babaca sortudo com certeza vai adorar ouvir as notícias... Você está comigo?",
+        "opcoes": ["Sim!", "Não!"],
+        "proxima1": "1211112112112111",
+        "proxima2": "1211112112112112"
+    },
+    "1211112112112111": {
+        "titulo":"<h2>Juntos contra o mal!</h2>",
+        "texto":"--Estou contigo e não largo, cavaleiro!<br>Rogério sorriu:<br>--Você até que é corajoso para um jacaré, sabia disso, Jorge?<br>--Vai te ferrar!<br>Os dois riram e começaram a longa jornada para a terra de Elmor. Apesar da distância, foi uma viagem tranquila e puderam conversar em paz enquanto a floresta dava lentamente lugar aos campos de grama vinículas de Elmor. Quando finalmente chegaram ao castelo vermelho do Duque foram recebidos com toda a pompa e respeito que esperavam de todas as pessoas... Com uma exceção:<br>--Ai, ai...--disse o Duque, devorando outra coxa de galinha--...troca de almas? Onde já se ouviu uma ideia tola dessas?<br>--Meu caro, Duque...--disse Rogério, já perdendo a paciência--...Fale com seus sábios, eles mesmos vão atestar que...<br>--Blá! Blá! Blá! Olhe, cavalheiro e jacaré, Elsara é problema de quem estiver no castelo de Elsara, Elmor é que é problema meu. Compreendem? Meu território, território deles! Simples! Agora me deixem jantar em paz.<br>O Duque voltou a devorar as coxas de galinha enquanto os guardas do palácio se juntavam ao redor da dupla, dizendo com suas lanças para que fossem embora.<br>Diante disso, Jorge decidiu por...",
+        "opcoes": ["Assustar o Duque para fazê-lo cooperar", "Lembrar a ele que ele pode usar isso para ganhar mais dinheiro"],
+        "proxima1": "12111121121121111",
+        "proxima2": "12111121121121112"
+    },
+    "12111121121121112": {
+        "titulo":"<h2>Subornado!</h2>",
+        "texto":"--Você entende que conquistar Elsara vai te deixar mais rico e poderoso, certo?<br>--Já tenho tudo que preciso.--disse o Duque jogando o osso de galinha por cima do ombro<br>--Mas e se você tivesse... ainda mais?<br>O Duque olhou para o dragão, pensou um pouco e algumas horas mais tarde, o exército estava em marcha.<br>Vários dias mais tarde, estavam novamente na floresta, o castelo de Elsara se aproximando no horizonte, quando um oficial perguntou à dupla:<br>--Nobres cavaleiros e dragão, já decidiram num plano de ataque?<br>Rogério e Jorge então conversaram. Seguir pela estrada seria mais rápido e aumentaria a chance de pegá-los de surpresa, no entanto, os deixariam expostos a uma emboscada. Por outro lado, avançar pela floresta quase certamente daria a eles o elemento surpresa, mas os deixaria exposto aos perigos da floresta. Após algum diálogo, cavaleiro e dragão decidiram por...",
+        "opcoes": ["Seguir pela estrada", "Seguir pela floresta"],
+        "proxima1": "12111121121121111",
+        "proxima2": "12111121121121112"
+    },
+    "12111121121121111": {
+        "titulo":"<h2>Assutado!</h2>",
+        "texto":"Furioso, Jorge abriu as mandíbulas e ejetou uma coluna de fogo que lançou os guardas do Duque a correr por suas vidas:<br>--Me escute aqui, verme! Nós não viajamos centenas de quilômetros e arriscamos nossos pescoços para você só dar uma sabixão! Você vai mobilizar seu exército e vai se tornar o Rei de Elsara e VOCÊ VAI GOSTAR DISSO! ESTAMOS ENTENDIDOS!?<br>Jorge esperou uma resposta, mas invés disso, tudo que recebeu foram os olhos gradativamente mais aterrorizados do Duque, até que, por fim, este disse:<br>--COFF! COFF!<br>--Ele está se engasgando com a coxa de galinha!--gritou Rogério, pulando para a ação<br>Antes que se percebesse, Rogério estava atrás do Duque aplicando a manobra de heimlich enquanto Jorge observava assustado:<br>--COFF! COFF!...Aff.. Meu Deus! Vocês... Vocês salvaram minha vida! Meu Deus, obrigado! Obrigado! Há alguma coisa que eu possa fazer para agradecer?<br>Dragão e cavaleiro se entreolharam e algumas horas mais tarde, o exército estava em marcha.<br>Vários dias mais tarde, estavam novamente na floresta, o castelo de Elsara se aproximando no horizonte, quando um oficial perguntou à dupla:<br>--Nobres cavaleiros e dragão, já decidiram num plano de ataque?<br>Rogério e Jorge então conversaram. Seguir pela estrada seria mais rápido e aumentaria a chance de pegá-los de surpresa, no entanto, os deixariam expostos a uma emboscada. Por outro lado, avançar pela floresta quase certamente daria a eles o elemento surpresa, mas os deixaria exposto aos perigos da floresta. Após algum diálogo, cavaleiro e dragão decidiram por...",
+        "opcoes": ["Seguir pela estrada", "Seguir pela floresta"],
+        "proxima1": "121111211211211111",
+        "proxima2": "121111211211211112"
+    },
+    "121111211211211111": {
+        "titulo":"<h2>Pela estrada!</h2>",
+        "texto":"[CONTINUAR DAQUI!]",
+        "opcoes": ["Seguir pela estrada", "Seguir pela floresta"],
+        "proxima1": "121111211211211111",
+        "proxima2": "121111211211211112"
+    },
+    "121111211211211112": {
+        "titulo":"<h2>Guerra na floresta!</h2>",
+        "texto":"Organizar as tropas na floresta eram sem sombra de dúvida mais difícil, mas Rogério era um líder hábil e Jorge estava sempre no ar, provendo cobertura aérea:<br>--Rogério! Você não vai acreditar!<br>--O que foi?<br>--A Rainha! Ela e o exército estão escondidos na floresta, esperando para lançar uma emboscada na estrada!<br>--Hahaha! Eu sabia que o risco valeria à pena! Vamos homens! À vitória!<br>Ordens foram dadas, as tropas entraram em posição e em poucas horas o exército de Elmor havia cercado as tropas da rainha. A luta foi brutal, mas curta, pegos de surpresa e desorganizados, os homens de Elsara não tiveram escolha senão recuar. A vitória já era quase certa quando um relâmpago caiu no centro do campo de batalha, matando vários soldados de Elmor:<br>--EU SACRIFIQUEI TUDO PARA CHEGAR AQUI! NÃO SERÃO VOCÊS QUE VÃO TIRAR ISSO DE MIM! ASHITUM! JARAPAK!<br>Um segundo relâmpago voou das mãos da rainha, matando vários soldados e derrubando Rogério de seu cavalo. Diante daquilo, Jorge decidiu...",
+        "opcoes": ["Fogo!", "Voar baixo e pega-la de surpresa!"],
+        "proxima1": "1211112112112111121",
+        "proxima2": "1211112112112111122"
+    },
+    "1211112112112111121": {
+        "titulo":"<h2>Fogo, mais uma vez</h2>",
+        "texto":"Jorge abriu suas mandíbulas e uma tempestade de fogo como nenhuma jamais vista antes rasgou os céus e se abateu sobre a terra, devastando árvore, terra e rocha, mas não a rainha, a qual estava envolta por um escudo protetor:<br>--TOLO!<br> Com uma palavra mágica o escudo se desfez, com outra, sua mão começou a brilhar com o poder de um novo relâmpago, mas antes que pudesse dizer uma terceira, Rogério saltou sobre ela, trespassando seu peito com sua espada:<br>--NÃO!!!! EU... EU... NÃO ME ARREPENDO DE NADA!<br>A batalha estava vencida, Elsara havia sido salva, a paz havia retornado para as terras entre as montanhas azuis e o Lago dos Trolls e pelos séculos que se seguiram, dragão e cavaleiro seriam lembrados e celebrados como os maiores heróis que o reino jamais vira.<h2>Salvadores do Reino!</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "1211112112112111122": {
+        "titulo":"<h2>Ataque surpresa!</h2>",
+        "texto":"Jorge fechou suas asas, sentiu seu corpo silenciosa e rapidamente cortar a atmosfera em direção ao chão. Quando estava a poucos metros do solo, abriu suas asas e raspou a grama abaixo, manobrando por entre as árvores até emergir por sobre a...<br>--TE PEGUEI! ASHTIM!<br>Um relâmpago emergiu das mãos da rainha e antes que Jorge notasse seu corpo estava paralisado pelos milhões de volts cozinhando sua carne e enegrecendo seus ossos. Antes que notasse o que havia ocorrido, seu cadáver atingiu o chão:<br>--JORGE!!!<br>Tomado pela fúria, Rogério saltou contra a rainha e trespassou seu peito com a espada:<br>--<br>--NÃO!!!! EU... EU... NÃO ME ARREPENDO DE NADA!<br>A batalha estava vencida, Elsara havia sido salva, a paz havia retornado para as terras entre as montanhas azuis e o Lago dos Trolls e o reino jamais se esqueceu do valioso sacrifício pago por seu mais destemido dragão, o qual nunca mais foi confundido com um jacaré.<h2>Mártire do Reino!</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "1211112112112112": {
+        "titulo":"<h2>Não é problema de dragão!</h2>",
+        "texto":"--Desculpe! Mas política é humana.<br>--Acho que tem razão...<br>--Bem, companheiro, lhe desejo sorte. Como cavaleiro da corte, tenho agora uma missão à cumprir.<br>E com aquelas palavras dragão e cavaleiro se separaram para nunca mais se ver, mas para se lembrar da sua pequena aventura.<br>Anos mais tarde, Jorge ouviria a estória de como Rogério havia liderado as tropas do Duque de Elmor a vitória e libertado Elsara das garras do usurpador desconhecido. Uma parte de Jorge sempre se perguntaria o que poderia ter acontecido se ele tivesse ido com o cavaleiro, mas outra dizia... <h2>Política não é coisa de dragão</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
     },
     "1211112112111": {
         "titulo":"<h2>Não é problema de dragão!</h2>",
