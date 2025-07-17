@@ -99,14 +99,21 @@
     },
     "1211112112": {
         "titulo":"<h2>Mordida!</h2>",
-        "texto":"Trollmor estav distraído, Jorge não. Abriu suas mandíbulas e atacou a perna do troll, que perdeu o equilíbrio e caiu no chão.<br>--MALDITOS!<br>Trollmor tentou se erguer, Rogério avançou para um golpe na cabeça, mas o troll bloqueou, mesmo assim, ele seguia exposto.<br>Jorge sabia que se atacasse agora, podia derrotar o troll, mas onde atacar?",
+        "texto":"Trollmor estava distraído, Jorge não. Abriu suas mandíbulas e atacou a perna do troll, que perdeu o equilíbrio e caiu no chão.<br>--MALDITOS!<br>Trollmor tentou se erguer, Rogério avançou para um golpe na cabeça, mas o troll bloqueou, mesmo assim, ele seguia exposto.<br>Jorge sabia que se atacasse agora, podia derrotar o troll, mas onde atacar?",
         "opcoes": ["Pescoço!", "Costas!"],
         "proxima1": "12111121121",
         "proxima2": "12111121122"
     },
     "12111121121": {
         "titulo":"<h2>Pescoço!</h2>",
-        "texto":"Jorge larga a perna, avança sobre as costas peluas do colosso e finca os dentes na pescoço da besta.<br>--AHHHH!!!<br>Rogério aproveita a oportunidade e atravessa o coração do troll que cai morto no chão:<br>--Que supresa...--disse Rogério, ainda recuperando o fôlego<br>--O que?<br>--Você não é de todo inútil!<br>--Ah, obri... espera aí...<br>Antes que terminasse a frase, ao longe, podiam ouvir vozes e sons de passos, os servos de trollmor se aproximavam.<br>Dragão e cavaleiro se retiraram de lá o mais rápido que puderam e antes que notassem já estavam na estrada para o castelo.<br>--aff...aff...Tudo bem...aff... Eu vou precisar de um banho... Tudo bem, agora, precisamos de uma enxarpe rosa...aff... Nossas opções são o mercado ou o alfaite...<br>--Faz alguma diferença?<br>--Bem... o mercado é cheio de pessoas e elas podem ficar... você sabe...<br>--Ah... Tudo bem...<br>--Não os culpe é que...<br>--Eu boto fogo nas coisas, eu sei, eu sei...--Rogério pode notar a tristeza nos olhos de Jorge--...E qual a outra opção?<br>--Bem, seria o alfaiate, mas... não gosto daquele homem... Mesmo quando está feliz, os olhos dele são como de um lobo acuado... O que me diz?<br>Jorge refletiu um pouco e decidiu por...",
+        "texto":"Jorge larga a perna, avança sobre as costas peludas do colosso e finca os dentes na pescoço da besta.<br>--AHHHH!!!<br>Rogério aproveita a oportunidade e atravessa o coração do troll que cai morto no chão:<br>--Que supresa...--disse Rogério, ainda recuperando o fôlego<br>--O que?<br>--Você não é de todo inútil!<br>--Ah, obri... espera aí...<br>Antes que terminasse a frase, ao longe, podiam ouvir vozes e sons de passos, os servos de trollmor se aproximavam.<br>Dragão e cavaleiro se retiraram de lá o mais rápido que puderam e antes que notassem já estavam na estrada para o castelo.<br>--aff...aff...Tudo bem...aff... Eu vou precisar de um banho... Tudo bem, agora, precisamos de uma enxarpe rosa...aff... Nossas opções são o mercado ou o alfaite...<br>--Faz alguma diferença?<br>--Bem... o mercado é cheio de pessoas e elas podem ficar... você sabe...<br>--Ah... Tudo bem...<br>--Não os culpe é que...<br>--Eu boto fogo nas coisas, eu sei, eu sei...--Rogério pode notar a tristeza nos olhos de Jorge--...E qual a outra opção?<br>--Bem, seria o alfaiate, mas... não gosto daquele homem... Mesmo quando está feliz, os olhos dele são como de um lobo acuado... O que me diz?<br>Jorge refletiu um pouco e decidiu por...",
+        "opcoes": ["Arriscar com o mercado", "Falar com o alfaiate!"],
+        "proxima1": "121111211211",
+        "proxima2": "121111211212"
+    },
+    "12111121122": {
+        "titulo":"<h2>Costas!</h2>",
+        "texto":"Jorge larga a perna, avança sobre as costas peludas do colosso e finca os dentes na coluna da besta.<br>--AHHHH!!!<br>Rogério aproveita a oportunidade e atravessa o coração do troll que cai morto no chão:<br>--Que supresa...--disse Rogério, ainda recuperando o fôlego<br>--O que?<br>--Você não é de todo inútil!<br>--Ah, obri... espera aí...<br>Antes que terminasse a frase, ao longe, podiam ouvir vozes e sons de passos, os servos de trollmor se aproximavam.<br>Dragão e cavaleiro se retiraram de lá o mais rápido que puderam e antes que notassem já estavam na estrada para o castelo.<br>--aff...aff...Tudo bem...aff... Eu vou precisar de um banho... Tudo bem, agora, precisamos de uma enxarpe rosa...aff... Nossas opções são o mercado ou o alfaite...<br>--Faz alguma diferença?<br>--Bem... o mercado é cheio de pessoas e elas podem ficar... você sabe...<br>--Ah... Tudo bem...<br>--Não os culpe é que...<br>--Eu boto fogo nas coisas, eu sei, eu sei...--Rogério pode notar a tristeza nos olhos de Jorge--...E qual a outra opção?<br>--Bem, seria o alfaiate, mas... não gosto daquele homem... Mesmo quando está feliz, os olhos dele são como de um lobo acuado... O que me diz?<br>Jorge refletiu um pouco e decidiu por...",
         "opcoes": ["Arriscar com o mercado", "Falar com o alfaiate!"],
         "proxima1": "121111211211",
         "proxima2": "121111211212"
@@ -127,10 +134,45 @@
     },
     "12111121121112": {
         "titulo":"<h2>Mentirosos!</h2>",
-        "texto":"[CONTINUE DAQUI!!!]",
-        "opcoes": ["NÓS MATAMOS O GANSO!", "Está nos acusando de mentir!?"],
-        "proxima1": "12111121121111",
-        "proxima2": "12111121121112"
+        "texto":"--O que disse?--disse a rainha, cerrando os pulsos<br>--Jorge...--cochichou Rogério<br>--COMIDA!COMIDA!EU QUERO COMER!-disse o rei, ainda amarrado à sua cadeira<br>--A senhora está nos chamando de mentirosos?--disse Jorge, empinando a cabeça e dando um passo à frente--...Rogério é um dos cavaleiros mais respeitados e talentosos de todo o reino e eu sou apenas um simples dragão que vive uma vida simples na floresta. Que motivos teríamos para mentir para vossa majestade!?<br>--Duas mil moedas de ouro?<br>--Bem... DUAS MIL!?--Jorge olhou para Rogério, que olhou para cima, fazendo-se de inocente--...Enfim...Mas há algum motivo para a senhora pensar que esse não é o seu ganso!? Se há, diga! Se a senhora puder provar que esse não é seu ganso, nós voltamos para a floresta agora mesmo e caçamos um novinho para você!<br>A rainha abriu a boca, mas então mordeu o lábio. Qualquer um podia haver que ela escondia algo, mas, ao mesmo tempo, ninguém ganhava nada revelando seja lá o que fosse:<br>--O meu ganso de estimação...--ela cuspiu, como se tivesse acabado de pensar naquilo--...Era muito mais esperto que esse pássaro. Está vendo o olhar perdido dessa besta?",
+        "opcoes": ["E como seria o olhar de um ganso inteligente?", "Você venceu! Nós vamos voltar para a floresta!"],
+        "proxima1": "121111211211121",
+        "proxima2": "121111211211122"
+    },
+    "121111211211121": {
+        "titulo":"<h2>Os olhos do ganso</h2>",
+        "texto":"--E como seria o olhar de um ganso inteligente?<br>--Bem...<br>Ela tentou dizer alguma coisa, mas invés disso, surgiu um brilho em seus olhos:<br>--Tem razão, qual seria o olhar do ganso certo?<br>Ela pegou o ganso e ficou olhando para ele com uma curiosidade médica, checando cada detalhe enquanto seus lábios se moviam em silêncio:<br>--Vocês encontraram ele na floresta? Com a enxarpe?<br>--OI! OI! QUERO COMIDA!--disse o rei, ainda amarrado ao trono<br>--Sim, vossa majestade.--disse Rogério, no tom mais confiante e verdadeiro jamais proferido<br>A rainha mordeu o lábio, sorriu e disse:<br>--Pois bem! Meus caros heróis, sua recompensa os aguarda...--ela disse, se retirando do salão com um sorriso de orelha à orelha<br>Nem uma hora mais tarde, dragão e cavaleiro marchavam em direção aos muros da cidade com sacos de ouro envoltos em seus ombros:<br>--Sabe, Jorge, você até que sabe pensar rápido... as vezes...<br>--Obrigado. Você também não é nada mal.<br>--Obrigado, obrigado... me diga já pensou em...<br>Um estrondo muitas vezes pior que de um trovão  atacou seus tímpanos enquanto a terra tremia abaixo de seus pés. Antes que notassem, dragão, cavaleiro e todas as pessoas ao redor estavam no chão, se contorcendo de dor no ouvido e imaginando o que havia acontecido:<br>--O CASTELO EXPLODIU! O CASTELO EXPLODIU!<br>Ao ouvir isso, dragão e cavaleiro se entreolharam e imediatamente decidiram que precisavam...",
+        "opcoes": ["...fugir o mais rápido possível", "...ver o que aconteceu"],
+        "proxima1": "1211112112111211",
+        "proxima2": "1211112112111212"
+    },
+    "1211112112111211": {
+        "titulo":"<h2>Nada de Bom</h2>",
+        "texto":"--Não pode ser coisa boa!<br>--Concordo em gênero, número e grau! Vamo nessa!<br>E nessa eles foram, cortando caminho pela multidão confusa e desesperada, atravessando os portões e desaparecendo para nunca mais serem visto na densa floresta entre as Montanhas Azuis e o Lago dos Trolls. Passariam-se muitos anos até que um incansável estudante de História (que não teve uma ideia melhor para um TCC) descobriria que dragão e cavaleiro haviam se refugiado no reino vizinho de Elmor, onde adotaram as identidades falsas de Mario e Manoel, abriram uma padaria e viveram uma vida calma e feliz. Se eles algum dia ficaram sabendo o que realmente estava acontecendo no castelo de Elsara e dos chocantes eventos que se seguiram é tópico de debate entre os seis historiadores que leram o dito TCC. <h2>FUGITIVOS RICOS!</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "1211112112111212": {
+        "titulo":"<h2>Algo grande</h2>",
+        "texto":"--Não pode ter sido nada relativo a nós, não é mesmo?--disse o dragão, terrivelmente assustado<br>--Vamos descobrir!<br>Os dois seguiram a multidão de pessoas assustadas até o castelo, onde encontraram a maior parte da estrutura bem, à exceção da torre leste, a qual havia sido reduzida a um pilha de pedras negras e fumegantes:<br>--ALI!--gritou o chefe da guarda do palácio, apontando para Jorge e Rogério--...FORAM ELES! ELES FORAM OS ÚLTIMOS A FALAR COM A RAINHA!<br>Um silêncio fúnebre recaiu sobre a população, que lentamente começou a cercar o dragão e cavaleiro com intenções menos que lisongeiras. Antes que algo acontecesse, Rogério se adiantou, agarrando Jorge pelos chifres, apontando para a multidão e gritando:<br>--ESSE DRAGÃO COSPE FOGO E EU NÃO TENHO MEDO DE USÁ-LO!<br>Um impasse se deu por alguns momentos até que uma pedra surgiu do nada e acertou Rogério na cabeça. Jorge, assustado, disparou uma coluna de fogo, que aterrorizou os aldeões, os quais, naturalmente, reagiram gritando e correndo em círculos:<br>--CORRE, JORGE! CORRE!<br>Dragão e cavaleiro puseram suas pernas em velocidade máxima, mas a quantidade de ouro era tanta que lentamente a multidão se aproximava deles:<br>--PRECISAMOS ABANDONAR O OURO!--disse Rogério<br>Ao som dessas palavras, Jorge gritou:",
+        "opcoes": ["NEM MORTO!", "TÁ BOM!"],
+        "proxima1": "12111121121112121",
+        "proxima2": "12111121121112122"
+    },
+    "12111121121112121": {
+        "titulo":"<h2>Nem Morto!</h2>",
+        "texto":"--Eu trabalhei demais por isso!<br>--Droga, você está certo!<br>Dragão e cavaleiro seguiram com correndo o mais rápido que podiam com o ouro nas costas, mas a cada metro, o ar rareava e o ouro se tornava mais pesado, até que o dragão desmaiou de cansaço:<br>--JORGE, NÃO!<br>Rogério tentou socorrê-lo, mas uma flecha nas costas atirou ao chão. Diante do sócio ferido, o dragão tentou cuspir fogo, mas sem fôlego, tudo que saiu foi fumaça.<br>Antes que pudesse pensar em outra coisa, a multidão estava sobre eles e em poucos segundos, ambos estavam... <h2>Mortos!</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "12111121121112122": {
+        "titulo":"<h2>Pobres!</h2>",
+        "texto":"--ODEIO QUANDO VOCÊ ESTÁ CERTO!--disse o dragão soltando seu ouro<br>O cavaleiro imitou o dragão e em poucos minutos, a dupla de novos pobres estava atravessando os portões da cidade para desaparecerem  na densa floresta entre as Montanhas Azuis e o Lago dos Trolls. Passariam-se muitos anos até que um incansável estudante de História (que não teve uma ideia melhor para um TCC) descobriria que dragão e cavaleiro haviam se refugiado no reino vizinho de Elmor, onde adotaram as identidades falsas de Mario e Manoel, arrumaram emprego em uma padaria e viveram uma vida cansativa porém feliz. Se eles algum dia ficaram sabendo o que realmente estava acontecendo no castelo de Elsara e dos chocantes eventos que se seguiram é tópico de debate entre os seis historiadores que leram o dito TCC. <h2>FUGITIVOS POBRES!</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
     },
     "12111121121111": {
         "titulo":"<h2>Verdade!</h2>",
