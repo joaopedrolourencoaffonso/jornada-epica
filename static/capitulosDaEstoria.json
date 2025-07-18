@@ -1,14 +1,7 @@
 {
     "0": {
         "titulo": "O Dragão e o Cavaleiro",
-        "texto": "Entre as montanhas Azuis e o Lago dos Trolls, se erguia uma floresta jovem e verdejante. Sua terra era lamacenta, mas seu ar era fresco e a todo momento podia se ouvir a sinfonia da vida: pássaros, monstros, pessoas, muitos habitantes, de muitos tipos diferentes, incluindo...",
-        "opcoes": ["um dragão!", "um cavaleiro!"],
-        "proxima1": "1",
-        "proxima2": "2"
-    },
-    "1": {
-        "titulo":"<h2>um Dragão chamado Jorge!</h2>",
-        "texto":"Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando um dia, ouviu um barulho por entre as árvores e avistou um cavaleiro de armadura brilhante!<br>Imediatamente, ele se lembrou de todas as estórias de cavaleiros matadores de dragão e seu coração se encheu de medo, mas aí, lembrou-se de todos os humanos que haviam se perdido, inocentemente na floresta e só estavam de passagem. <br>Assustado e confuso, Jorge decidiu...",
+        "texto": "Entre as montanhas Azuis e o Lago dos Trolls, se erguia uma floresta jovem e verdejante. Sua terra era lamacenta, mas seu ar era fresco e a todo momento podia se ouvir a sinfonia da vida: pássaros, monstros, pessoas, muitos habitantes, de muitos tipos diferentes, incluindoum Dragão chamado Jorge.<br>Jorge sabia cuspir fogo, voar e até fazer um pouco de mágica, mas uma coisa que ele não sabia era assustar as pessoas.<br> Onde ele ia as pessoas sempre gritavam: 'Jacaré!' e Jorge, todo triste e sem jeito, dizia: 'Jacaré não! É dragão!'<br>Apesar disso, seguia com a vida normalmente, caçando na floresta, botando fogo nas coisas e (de noite) olhando um dia, ouviu um barulho por entre as árvores e avistou um cavaleiro de armadura brilhante!<br>Imediatamente, ele se lembrou de todas as estórias de cavaleiros matadores de dragão e seu coração se encheu de medo, mas aí, lembrou-se de todos os humanos que haviam se perdido, inocentemente na floresta e só estavam de passagem. <br>Assustado e confuso, Jorge decidiu...",
         "opcoes": ["Cuspir fogo no cavaleiro!", "Conversar com o cavaleiro."],
         "proxima1": "11",
         "proxima2": "12"
@@ -27,12 +20,33 @@
         "proxima1": "121",
         "proxima2": "122"
     },
+    "122": {
+        "titulo":"<h2>Obrigado, mas não</h2>",
+        "texto":"--Bem, não posso culpá-lo. Tenha um bom dia, nobre dragão<br>E com aquelas palavras, Rogério desapareceu em meios as árvores para nunca mais ser visto enquanto Jorge voltou a sua bela rotina de caçar, dormir e admirar as estrelas.<h2>Vida pacata</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
     "121": {
         "titulo":"<h2>Lucros!</h2>",
         "texto":"--De bobo você não tem nada, né?--disse Rogério, sabendo que o dragão havia mordido a isca--...Duzentas moedas de ouro para sua pilha de ouro pessoal. O que acha?<br>--SIM! SIM! EU QUERO IR! ME ESCOLHE!--foi o que Jorge queria dizer, mas em verdade, disse--...Hum... sim, acho que vou aceitar sua oferta.<br>--Ótimo! Então, por onde devemos começar?<br>Jorge ponderou sobre todos os gansos que ele havia comido ao longo dos anos e sabia que havia dois lugares mais plausívies: o rio ou o lago. O lago era mais provável, mas era a casa de uma familía de troll problemática, o rio era improvável, mas definitivamente daria menos dor de cabeça.<br>Após pensar um pouco, Jorge decidiu pelo",
         "opcoes": ["Rio", "Lago"],
         "proxima1": "1211",
         "proxima2": "1212"
+    },
+    "1212": {
+        "titulo":"<h2>Lago!</h2>",
+        "texto":"--Hum... tem certeza? Os trolls não são fáceis.<br>--Eu sei, mas onde mais um <i>ganso</i> estaria?<br>O cavaleiro concedeu o ponto do dragão e a dupla marchou em direção ao Lago.<br>No início, a marcha foi fácil, mas a cada passo que davam a terra ficava mais úmida e lamacenta enquanto a atmosfera ganhava peso e grossura, mesmo assim, seguiram em frente até chegar na margem do lago:<br>--Viu!? Ganso até perder de vista<br>--Tch, mas nenhum deles é o nosso ganso... precisamos de um com uma enxarpe, lembra?<br>--Não perca a calma, se olharmos com cuidado é bem provável que...<br>Jorge deu um passo a frente, sentiu algo debaixo do pé e recuou: era um corda, ligado a um sino, que agora tocava sem parar.<br>--TEMOS QUE SAIR DAQUI! AGORA!<br>Dragão e cavaleiro se puseram a correr, mas uma poça d'água derrubou Rogério no chão. Jorge instintivamente retornou para ajudar Rogério quando o estrondo de uma árvore sendo derrubada ecoou pela floresta, então outro e outro e outro até que por fim uma das árvores próximas à dupla caiu, revelando um colosso cinzento, de cabelos verdes como o musgo que usava como roupa e cabelos cinzas como sua pele grossa e forte:<br>--Quem ousa entrar nos domínios dos Trolls do Lago!?<br>Jorge sabia que tinha que agir rápido, então decidiu por...",
+        "opcoes": ["Conversar", "Cuspir fogo!"],
+        "proxima1": "12121",
+        "proxima2": "12122"
+    },
+    "12121": {
+        "titulo":"<h2>Bater papo!?</h2>",
+        "texto":"--M-M-Meu caro senhor... eh...<br>--É senhora! Senhora Trollmene!<br>--Senhora! Senhora Trollmene!... Nós... Nós não queríamos invadir seus domínios, somente queríamos...<br>--Não importa o que queriam, vocês invadiram e devem ser punidos!<br>Ela agarrou a árvore que acabara de derrubar e ergou no ar, pronta para esmagar dragão e cavaleiro, quando Rogério tomou a vez:<br>--SENHORA, PEDIMOS SEU PERDÃO! NÃO QUERÍAMOS INVADIR SUA PROPRIEDADE! POUPE-NOS E NUNCA MAIS VERÁ NOSSAS SOMBRAS!<br>A troll ficou parada onde estava, matutando o que acabara de ouvir até que disse:<br>--Pois bem...--largou a árvore no chão, causando um estrondo ensurdecedor--...Vocês tem dez segundos.<br>--Bem, eu ainda estou preso na lama então...<br>--10, 9, 8...<br>Rogério agarrou o pescoço do dragão o qual começou a puxar como um louco até que o cavaleiro foi liberto e a dupla saiu em disparada floresta à abaixo.<br>Quando finalmente estavam a uma distância segura, dragão e cavaleiro cairam no chão, lutando para respirar:<br>--Então... o que acha de tentarmos o rio agora?<br>O dragão concordou e ambos rumaram para o Rio onde também não obtiveram muito sucesso:<br>--Estou com fome... minhas asas estão doendo... meu...<br>--Tá bem, jacaré! Tabém! Amanhã a gente vai para o lago e resolve isso!<br>--Eu não sou um jacaré...--disse Jorge num tom bem baixo<br>--Tem problema eu dormir na sua caverna hoje? Muito melhor que ir e voltar para a cidade!<br>--Claro!<br>Após alguns instantes, estavam na frente da caverna cravada na base da montanha. Rogério estava com o cachimbo nos lábios, admirando as árvores enquanto Jorge falava sobre os jogos que poderiam jogar durante a noite quando ambos ouviram um som:<br>--HONK! HONK!<br>Seguindo o som para dentro da caverna, viram um pequeno chumaço de penas brancas envoltas em uma enxarpe rosa, indo de um lado para o outro por sobre o tesouro do dragão:<br>--O ganso!<br>Era tão inacreditável quanto frustrante. Mas isso não importava agora, Jorge estava apenas a um passo de ganhar suas (primeiras) duzentas moedas de ouro! Frente a isso, decidiu...",
+        "opcoes": ["Perguntar a Rogério o que fazer.", "Cuspir fogo!"],
+        "proxima1": "12111",
+        "proxima2": "12112"
     },
     "1211": {
         "titulo":"<h2>Rio!</h2>",
