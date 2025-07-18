@@ -134,10 +134,59 @@
     },
     "12111121121212": {
         "titulo":"<h2>Negócio feito</h2>",
-        "texto":"[CONTINUAR DAQUI]",
-        "opcoes": ["Eu acho melhor tentarmos o mercado.", "Vamos aceitar!"],
-        "proxima1": "12111121121211",
-        "proxima2": "12111121121212"
+        "texto":"Uma pagamento mais tarde, Rogério amarrou a enxarpe roxa ao redor do ganso e os dois seguiram pela estrada até havistarem os muros azuis de Elsara, a capital do reino. Os guardas ficaram assustados com Jorge, mas Rogério os acalmou e a dupla foi logo conduzida pelo mar de casas de madeira tingidas de vermelho e dourado até chegar ao luxuoso palácio real, com seus tijolos brancos e tetos em abóboda.<br>Após alguma espera numa luxuosa antecâmara coberta por pinturas de grandes batalhas e feitos heróicos, ouviram as palavras:<br>--A Rainha aguarda sua presença!<br>--Rogério, eu tive um pressentimento estranho que...<br>--Xii!! Já fomos longe demais para volta agora. Seja homem e... seja um dragão e aguenta!<br>Os dois respiraram fundo e adentraram a suntuosa sala real onde dois tronos dourados dominavam a cena, o primeiro, continha a rainha, vestindo uma armadura dourada, no segundo, o rei, quase nu, amarrado ao seu trono:<br>--Ele não fica quieto de outra maneira.--ela disse, adiantando a pergunta--...Me mostrem o alvo.<br>Dragão e cavaleiro se entreolharam brevemente, respiraram fundo e tiraram o ganso com a enxarpe (agora cheia de mordidas) do saco:<br>--Esse não é o ganso certo, caçador, e você sabe disso...--sua voz era enfadonha, como se disse o óbvio--...Por que me trouxe isso?<br>Rogério abriu a boca, mas não saiu resposta. Vendo que precisava agir, Jorge disse:",
+        "opcoes": ["Como você descobriu!?", "Está nos acusando de mentir!?"],
+        "proxima1": "121111211212121",
+        "proxima2": "121111211212121"
+    },
+    "121111211212121": {
+        "titulo":"<h2>Enxarpe</h2>",
+        "texto":"--Não me façam rir...--ela pegou o ganso em suas mãos--... é óbvio que... que...<br>Tão logo ela tocou no ganso, ela também tocou na enxarpe e foi como se alguma coisa acontecesse em sua mente. Seus olhos ficaram vidrados no tecido enquanto suas mãos o acariciavam incessantemente:<br>--Eh... vossa majestade?--perguntou Rogério<br>--Calado!--ela disse, passando a enxarpe no próprio rosto--...Onde vocês encontraram essa enxarpe? Que tecido maravilhoso!<br>--Com o alfaiate da floresta, madame.<br>--Alfaiate da floresta? Que... Que... rústico... será que ele é solteiro?--ela disse, passando a enxarpe ao redor do seu pescoço<br>Tão logo ela disse aquilo, dragão e cavaleiro se entreolharam confusos, pois ambos sabiam o que era um feitiço de controle da mente, porém ambos também que:<br>1. Esses feitiços só eram lançados por grandes e perigoso magos<br>2. Eles não haviam sido pagos para aquilo<br>Após pensar um pouco, dragão e cavaleiro decidiram...",
+        "opcoes": ["Pegar o dinheiro e ir embora", "Fazer a coisa certa e salvar a rainha"],
+        "proxima1": "1211112112121211",
+        "proxima2": "1211112112121212"
+    },
+    "1211112112121212": {
+        "titulo":"<h2>Coisa certa!</h2>",
+        "texto":"--Temos que fazer a coisa certa, não é?<br>--Vamos lá, Rogério? O que de mal poderia acontecer?<br>Rogério fez um muxoxo, respirou fundo e saltou sobre a rainha, tentando arrancar a enxarpe, mas vossa majestade foi mais rápido:<br>--NÃO! NINGUÉM ME SEPARARÁ DO MEU AMADO! ASHTAK!<br>Ela ergeu o braço e um relâmpago saltou de sua mão, lançando Rogério para o outro lado do salão. Frente a isso, Jorge, agora com o coração quase saltando boca a fora, decidiu por...",
+        "opcoes": ["Fugir!", "Morder a enxarpe!"],
+        "proxima1": "12111121121212121",
+        "proxima2": "12111121121212122"
+    },
+    "12111121121212121": {
+        "titulo":"<h2>Isso não é coisa de dragão!</h2>",
+        "texto":"--TÔ FORA!<br>E com aquelas palavras, Jorge abriu as asas e alçou vôo, arrebentando o vitral do salão real e desaparecendo para nunca mais ser visto.<br>Séculos mais tarde, um graduando de História fazendo um TCC sobre o evento descobriria que Jorge havia se mudado para o reino vizinho de Elmor, mudado seu nome para Antônio e arrumado emprego numa padaria, onde viveu o restante dos seus dias. Se Jorge algum dia ficou sabendo da prisão injusta de Rogério ou do casamento da Rainha com o alfaiate da floresta é assunto de intenso debate entre os quatro historiadores que leram o dito cujo TCC. <h2>Fugitivo covarde!</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "12111121121212122": {
+        "titulo":"<h2>Corta e recorta!</h2>",
+        "texto":"Jorge abriu as mandíbulas e avançou, de imediato sentiu milhões de volts correndo por sua carne, mas sabia de Rogério contava com ele.<br>Apesar da dor, seguiu se movendo, agarrou a rainha e com uma única mordida, rasgou a enxarpe em duas.<br>Dragão, rainha e enxarpe caíram no chão enquanto guardas invadiam o salão:<br>--Mas o que aconteceu, aqui!?<br>Seria apenas várias horas mais tarde que dragão, cavaleiro e rainha estariam conscientes o bastante para entender o que havia acontecido:<br>--Jorge, Rogério... tenho para convosco um débito eterno que é difícil por em palavras...--ela disse, com as mãos nas têmporas e sangue nos olhos--...por favor, aceitem essas 10 mil moedas de ouro como pagamento por seu heroísmo.<br>--Nós aceitamos, vossa majestade! Pode deixar que aceitamos sim!--disse Rogério agarrando os sacos de ouro<br>--Ótimo. Agora se me permitem, eu tenho uma floresta para queimar...<br>Uma vez pagos, cavaleiro e drãgão saíram cidade à fora com seus ombros carregados de ouro e sorrisos de orelha à orelha, quando Rogério disse:<br>--Sabe, você até que sabe pensar rápido para um dragão com cara de jacaré.<br>--Obrigado! Você também não foi inútil.<br>Rogério mordeu o lábio, mas seguiu:<br>--O que acha de formarmos uma sociedade? Seu fogo e minha espada, juntos, podem qualquer coisa!<br>Pego de surpresa, Jorge parou por um momento para refletir antes de responder...",
+        "opcoes": ["EBA! VAMOS SER AMIGOS!", "Obrigado, mas eu gosto da minha vida como está!"],
+        "proxima1": "12111121121212111",
+        "proxima2": "12111121121212112"
+    },
+    "1211112112121211": {
+        "titulo":"<h2>Não é problema nosso</h2>",
+        "texto":"--Na floresta, vossa majestade, num chalé branco com uma lareira vermelha.<br>--Hum, que rústico...<br>Uma vez pagos, cavaleiro e drãgão saíram cidade à fora com seus ombros carregados de ouro e sorrisos de orelha à orelha, quando Rogério disse:<br>--Sabe, você até que sabe pensar rápido para um dragão com cara de jacaré.<br>--Obrigado! Você também não foi inútil.<br>Rogério mordeu o lábio, mas seguiu:<br>--O que acha de formarmos uma sociedade? Seu fogo e minha espada, juntos, podem qualquer coisa!<br>Pego de surpresa, Jorge parou por um momento para refletir antes de responder...",
+        "opcoes": ["EBA! VAMOS SER AMIGOS!", "Obrigado, mas eu gosto da minha vida como está!"],
+        "proxima1": "12111121121212111",
+        "proxima2": "12111121121212112"
+    },
+    "12111121121212111": {
+        "titulo":"<h2>Amigos!</h2>",
+        "texto":"--Aff... é, acho que pode dizer que seríamos amigos!<br>Jorge pulou no ar de alegria:<br>--Então está combinado! 'Jorge e Rogério', aventureiros profissionais!<br>--Por que seu nome viria primeiro?<br>--Ordem alfabética<br>--Oh<br>E assim, Jorge e Rogério (marca registrada) seguiram mundo à fora, se aventurando por castelos perigosos e cavernas assombradas pelo preço certo. Suas reputações cresceriam e se tornariam lendárias, mas, de tempos em tempos, sempre receberiam notícias do Reino de Elsara. Para a surpresa de ninguém, o antigo rei havia morrido sob circunstâncias misteriosas e a rainha viúva havia superado a perda se casando com um charmoso alfiate da floresta. Embora boatos sobre o caso não faltassem, o alfaiate se mostrou um rei tão bom quanto qualquer outro e o Elsara permaneceu em paz. <h2>Carreias de sucesso e casamento suspeito!</h2>",
+        "opcoes": ["Use 'ctrl + R'","para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "12111121121212112": {
+        "titulo":"<h2>Vida na floresta!</h2>",
+        "texto":"--É compreensível. Nesse caso, te desejo uma vida de paz e riqueza, bom amigo.<br>--O mesmo para você, nobre cavaleiro!<br>Com sorrisos e sacos de ouro, dragão e cavaleiro se separaram para nunca mais ver um ao outro. Jorge, no entanto, ainda ouviria falar do grande cavaleiro Rogério, que desbrava castelos e cavernas amaldiçoadas pelo preço certo, até que um dia, as estórias pararam de aparecer.<br>Isso deixou Jorge triste, mas a vida na floresta não era para os emotivos e seguiu como sempre. <h2>Vida não muito pacífica!</h2>",
+        "opcoes": ["Use 'ctrl + R'","para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
     },
     "12111121121211": {
         "titulo":"<h2>Obrigado, mas não!</h2>",
@@ -372,7 +421,7 @@
     },
     "12111121121112": {
         "titulo":"<h2>Mentirosos!</h2>",
-        "texto":"--O que disse?--disse a rainha, cerrando os pulsos<br>--Jorge...--cochichou Rogério<br>--COMIDA!COMIDA!EU QUERO COMER!-disse o rei, ainda amarrado à sua cadeira<br>--A senhora está nos chamando de mentirosos?--disse Jorge, empinando a cabeça e dando um passo à frente--...Rogério é um dos cavaleiros mais respeitados e talentosos de todo o reino e eu sou apenas um simples dragão que vive uma vida simples na floresta. Que motivos teríamos para mentir para vossa majestade!?<br>--Duas mil moedas de ouro?<br>--Bem... DUAS MIL!?--Jorge olhou para Rogério, que olhou para cima, fazendo-se de inocente--...Enfim...Mas há algum motivo para a senhora pensar que esse não é o seu ganso!? Se há, diga! Se a senhora puder provar que esse não é seu ganso, nós voltamos para a floresta agora mesmo e caçamos um novinho para você!<br>A rainha abriu a boca, mas então mordeu o lábio. Qualquer um podia haver que ela escondia algo, mas, ao mesmo tempo, ninguém ganhava nada revelando seja lá o que fosse:<br>--O meu ganso de estimação...--ela cuspiu, como se tivesse acabado de pensar naquilo--...Era muito mais esperto que esse pássaro. Está vendo o olhar perdido dessa besta?",
+        "texto":"--O que disse?--disse a rainha, cerrando os pulsos<br>--Jorge...--cochichou Rogério<br>--COMIDA!COMIDA!EU QUERO COMER!--disse o rei, ainda amarrado à sua cadeira<br>--A senhora está nos chamando de mentirosos?--disse Jorge, empinando a cabeça e dando um passo à frente--...Rogério é um dos cavaleiros mais respeitados e talentosos de todo o reino e eu sou apenas um simples dragão que vive uma vida simples na floresta. Que motivos teríamos para mentir para vossa majestade!?<br>--Duas mil moedas de ouro?<br>--Bem... DUAS MIL!?--Jorge olhou para Rogério, que olhou para cima, fazendo-se de inocente--...Enfim...Mas há algum motivo para a senhora pensar que esse não é o seu ganso!? Se há, diga! Se a senhora puder provar que esse não é seu ganso, nós voltamos para a floresta agora mesmo e caçamos um novinho para você!<br>A rainha abriu a boca, mas então mordeu o lábio. Qualquer um podia ver que ela escondia algo, mas, ao mesmo tempo, ninguém ganhava nada revelando seja lá o que fosse:<br>--O meu ganso de estimação...--ela cuspiu, como se tivesse acabado de pensar naquilo--...Era muito mais esperto que esse pássaro. Está vendo o olhar perdido dessa besta?",
         "opcoes": ["E como seria o olhar de um ganso inteligente?", "Você venceu! Nós vamos voltar para a floresta!"],
         "proxima1": "121111211211121",
         "proxima2": "121111211211122"
