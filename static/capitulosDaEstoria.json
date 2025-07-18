@@ -132,6 +132,13 @@
         "proxima1": "12111121121211",
         "proxima2": "12111121121212"
     },
+    "12111121121212": {
+        "titulo":"<h2>Negócio feito</h2>",
+        "texto":"[CONTINUAR DAQUI]",
+        "opcoes": ["Eu acho melhor tentarmos o mercado.", "Vamos aceitar!"],
+        "proxima1": "12111121121211",
+        "proxima2": "12111121121212"
+    },
     "12111121121211": {
         "titulo":"<h2>Obrigado, mas não!</h2>",
         "texto":"O alfaiate fez uma cara feia, mas não insistiu, fazendo uma breve reverência e fechando a porta. Alguns minutos mais tarde, Jorge estava deitado na floresta, aguardando Rogério retornar do mercado, quando ouviu dois comerciantes descendo pela estrada ao lado:<br>--Realmente, o rei tem estado muito estranho...<br>--Eu sei não é!? Outro dia pegaram ele sentado no chafariz do palácio, por horas, que nem um louco! E me disseram que...<br> Jorge não conseguiu ouvir o resto da conversa, a medida que eles se afastaram, mas aquilo lhe deixou com a pulga atrás da orelha. Alguns instantes mais tarde, quando Rogério apareceu com a enxarpe numa mão e o ganso na outra, Jorge decidiu...",
@@ -149,9 +156,16 @@
     "1211112112112": {
         "titulo":"<h2>Boatos!</h2>",
         "texto":"Algum tempo depois, Rogério chegou balançando uma enxarpe <i>quase</i> parecida com a do ganso da rainha e os dois começaram a seguir rumo à capital do reino:--Rogério... essa tal rainha... você notou algo estranho sobre ela?<br>--Como assim?<br>--É que eu ouvi uns homens conversando na floresta sobre umas coisas estranhas que estavam acontecendo no palácio e...<br>--Bem, não vou negar que as coisas tem estado estranhas em Elsara... Tudo umas noites atrás, quando um ganso maluco voou pela janela do castelo, acordando o rei e rainha. Em si, não seria nada demais, mas todos os empregados do castelo disseram que os gritos que saíram daquele quarto não eram como nada que haviam ouvido antes.<br>--Gritos de terror?<br>--Sim. Mas quando abriram as portas, o rei e a rainha estavam bem... ou pelo menos pareciam estar bem!<br>--Como assim?<br>--Bem, depois daquela noite, foi como se o rei tivesse perdido a cabeça. Ele anda por aí, balbuciando palavras sem nexo umas com as outras e comendo todo o pão que vê pela frente. Me disseram até que ele tem que ser amarrado para ficar no trono dele e são precisos cinco serviçais para fazê-lo se vestir após tomar banho... Mas essa não é a parte mais estranha...<br>--Não, é?<br>--Não, o mais estranho é que o ganso ficou voltando!<br>--O ganso que matamos? O ganso com a enxarpe?<br>--Sim! Depois de voar para fora naquela noite, ele ficou rondando o castelo por dias! Sempre tentando invadir o palácio, brigando com os guardas e tentando atacar a rainha quando tinha a chance. Me disseram que... A Rainha também mudou muito, é claro... Desde o incidente, ela começou a comprar armas, reunir generais, treinar cavaleiros... Estão todos assustados com algum tipo de guerra de conquista e...<br>--Rogério...--disse Jorge, plenamente furioso--...Será que você não percebe!?!?!?...",
-        "opcoes": ["O GANSO ERA O REI!", "O GANSO ERA ALMADIÇOADO!"],
+        "opcoes": ["O GANSO ERA O REI!", "ISSO É UM MISTÉRIO!"],
         "proxima1": "12111121121121",
         "proxima2": "12111121121122"
+    },
+    "12111121121122": {
+        "titulo":"<h2>Mistério!</h2>",
+        "texto":"--De fato, ninguém sabe o que está acontecendo... mas pagando bem, que mal tem?<br>--Não posso descordar!<br>Dito isso, os dois seguiram pela estrada até havistarem os muros azuis de Elsara, a capital do reino. Os guardas ficaram assustados com Jorge, mas Rogério os acalmou e a dupla foi logo conduzida pelo mar de casas de madeira tingidas de vermelho e dourado até chegar ao luxuoso palácio real, com seus tijolos brancos e tetos em abóboda.<br>Após alguma espera numa luxuosa antecâmara coberta por pinturas de grandes batalhas e feitos heróicos, ouviram as palavras:<br>--A Rainha aguarda sua presença!<br>--Rogério, eu tive um pressentimento estranho que...<br>--Xii!! Já fomos longe demais para volta agora. Seja homem e... seja um dragão e aguenta!<br>Os dois respiraram fundo e adentraram a suntuosa sala real onde dois tronos dourados dominavam a cena, o primeiro, continha a rainha, vestindo uma armadura dourada, no segundo, o rei, quase nu, amarrado ao seu trono:<br>--Ele não fica quieto de outra maneira.--ela disse, adiantando a pergunta--...Me mostrem o alvo.<br>Dragão e cavaleiro se entreolharam brevemente, respiraram fundo e tiraram o ganso com a enxarpe (agora cheia de mordidas) do saco:<br>--Esse não é o ganso certo, caçador, e você sabe disso...--sua voz era enfadonha, como se disse o óbvio--...Por que me trouxe isso?<br>Rogério abriu a boca, mas não saiu resposta. Vendo que precisava agir, Jorge disse:",
+        "opcoes": ["NÓS MATAMOS O GANSO!", "Está nos acusando de mentir!?"],
+        "proxima1": "12111121121111",
+        "proxima2": "12111121121112"
     },
     "12111121121121": {
         "titulo":"<h2>MAJESTADE!?!?</h2>",
@@ -195,6 +209,41 @@
         "proxima1": "1211112112112111111",
         "proxima2": "1211112112112111112"
     },
+    "1211112112112111112": {
+        "titulo":"<h2>Olho nos céus!</h2>",
+        "texto":"Nervoso porém confiante, Jorge alçou voo, seguindo à frente do exército, sempre prestando atenção para armaduras entre as árvores abaixo.<br>Após algum tempo, o nervosismo deu lugar ao tédio, a medida que a paisagem seguia se repetindo de novo e de novo e de...<br>--DROGA!!!<br>Uma nuvem de flechas cortou a atmosfera ao redor de Jorge, com várias delas cravando em sua carne, mas nenhuma foi letal:<br>--O INIMIGO ESTÁ À FRENTE! PREPAREM-SE!<br> Ao som daquelas palavras Rogério colocou seu cavalo para correr o mais rápido possível, tentando organizar as tropas numa linha de combate enquanto as tropas da Rainha, pegas de surpresa pelo dragão, avançavam sem ordem ou plano. O que aconteceu em seguida só pode ser descrito como o equivalente militar a uma gigantesca briga de bar, sem linhas de combate ou formações, apenas cavaleiros atacando uns aos outros aos aletóriamente, poluindo a atmosfera com os sons de gritos e o cheiro de sangue:<br>--ASHTAK!--gritava a rainha, disparando raios em todas as direções<br>--Jorge, o que vamos fazer!?<br>Jorge olhou o campo de batalha, a Rainha estava cercada por seus mais fiéis cavaleiros, mas estava exposta. Após pensar um pouco, Jorge decidiu...",
+        "opcoes": ["Você vai pela direita e eu vou pela esquerda!", "Suba nas minhas costas, vamos atáca-la juntos!"],
+        "proxima1": "12111121121121111121",
+        "proxima2": "12111121121121111122"
+    },
+    "12111121121121111121": {
+        "titulo":"<h2>Cerco!</h2>",
+        "texto":"Dragão e cavaleiro se separaram. Jorge seguiu pela rota combinada, continuamente escapando de lanças e lâminas perdidas até por fim chegar a posição certa para o ataque, quando percebeu algo de errado:<br>--Onde está o Rogério!?<br>Para seu azar, Rogério estava duelando com um cavaleiro de Elsara que o pegou no meio do caminho. Para piorar, tão logo entrou em posição, a Rainha havistou o dragão, estendeu o braço e o atingiu com um raio mais forte que qualquer outro.<br>Jorge sentiu seu corpo enrigecer, o mundo ao seu redor escurecer e por fim, sua vida se esvaiu.<br>A Batalha da Estrada entrou para a estória como o ponto de legitimação da Rainha Louca, que partiria numa série de campanhas de conquistas gloriosas para ela e destrutivas para todos os outros.<h2>Separados e Derrotados</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "12111121121121111122": {
+        "titulo":"<h2>Juntos até o fim!</h2>",
+        "texto":"Rogério subiu nas costas de Jorge e os dois juntos alçaram vôo por sobre o campo de batalha, evadindo flechas e lanças e por fim os relâmpagos da rainha:<br>--MORRAM, DESGRAÇADOS!<br>--Avante Jorge!<br>Dragão e cavaleiro caíram em meio a formação inimiga, esmagando cavaleiros com suas garras, cozinhando outros com fogo e cortando a cabeça de outros com a lâmina:<br>--Ashtak!<br>Os dois sentiram milhões de volts correndo por sua carne, enrigencendo seus corpos e lançando para trás.<br>Uma vez no chão, o dragão viu a rainha desembainhando sua espada e trespassando o peito do cavaleiro, matando-o imediatamente:<br>--ROGÉRIO!<br>--AGORA VOCÊ, JACARÉ!<br>Ela ergueu a espada, Jorge...",
+        "opcoes": ["Cuspiu fogo!", "Rasgou a garganta dela com seus dentes"],
+        "proxima1": "121111211211211111221",
+        "proxima2": "121111211211211111222"
+    },
+    "121111211211211111221": {
+        "titulo":"<h2>Fogo!?!?</h2>",
+        "texto":"Em desespero, Jorge abriu a boca, mas tudo que saiu foi uma fumaça negra e fedorenta:<br>--Patético...<br>Com um sorriso doente seu rosto, a rainha ergueu a espada e ceifou a vida do dragão.<br><br>A Batalha da Estrada entrou para a estória como o ponto de legitimação da Rainha Louca, que partiria numa série de campanhas de conquistas gloriosas para ela e destrutivas para todos os outros.<h2>Juntos e Derrotados</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "121111211211211111222": {
+        "titulo":"<h2>Corte de misericórdia!</h2>",
+        "texto":"Jorge abriu a boca. A rainha ergueu a espada. Jorge mordeu a perna da rainha. A rainha cravou a espada no ombro do dragão.<br>Ambos gritaram de dor.<br>A rainha caiu gritando, Jorge não.<br>Com a astérias inundadas de adrenalina e ódio, o dragão rastejou para cima da monarca caída, abriu a boca e rasgou sua garganta.<br>A guerra fora vencida, Elsara recebeu seu novo rei de braços abertos e Jorge viveu o resto dos seus dias em paz e luxo, mas nunca se esqueceu da bravura de seu velho amigo cavaleiro, imortalizado nuna bela estátua de granito no lado de fora da caverna do dragão. <h2>Herói e Mártire</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
     "1211112112112111111": {
         "titulo":"<h2>Desprevinidos!</h2>",
         "texto":"O exército seguiu em marcha até chegar a uma ponte estreita sobre o Rio Avian. Apenas dois homens podiam passar por vez, então, dragão e cavaleiro sentaram na retaguarda enquanto a monótona travessia era realizada, até que ouviram, ao longe, um zunir familiar:<br>--FLECHAS!<br>Em segundos, dezenas de soldados estavam mortos, segundos mais tarde, a floresta inteira parecia possuída, hordas de tropas de Elsara aparecendo de todos os lados, surpreendendo os elmorianos e destroçando suas formações.<br>Rogério desembainhou sua espada e desesperadamente tentou organizar as tropas remanescentes numa linha de combate enquanto Jorge decidiu por...",
@@ -204,7 +253,28 @@
     },
     "12111121121121111112": {
         "titulo":"<h2>Cercados!</h2>",
-        "texto":"[CONTINUAR DAQUI!]",
+        "texto":"Jorge abriu as garras e se lançou ao ataque, rasgando carne e quebrando ossos. Em poucos segundos, os soldados estavam em fuga enquanto Rogério se punha de pé:<br>--JORGE! PRECISAMOS SAIR DAQUI! A BATALHA ESTÁ...<br>--EU SEI ONDE A RAINHA ESTÁ! VENHA COMIGO!<br>Por um instante, Rogério exitou, no instante seguinte, agarrou o dragão pelas patas e os dois voaram rente às árvores até a colina onde a rainha estava.<br>--ASHTAK<br>Três raios emergiram das mãos da rainha, cercando o dragão e o obrigando a cair no chão enquanto os cavaleiros da rainha avançavam.<br>Por um instante, Jorge julgou tudo perdido, no instante seguinte, Rogério ergeu sua espada, matando um cavaleiro enquanto derrubava outro do cavalo. Diante disso, Jorge decidiu por...",
+        "opcoes": ["Cuspir fogo!", "usar as garras!"],
+        "proxima1": "121111211211211111121",
+        "proxima2": "12111121121121111111212"
+    },
+    "121111211211211111121": {
+        "titulo":"<h2>Tempestade de fogo!</h2>",
+        "texto":"Jorge abriu suas mandíbulas e verteu uma coluna de fogo como nenhuma vista antes ou depois. Cavaleiros, árvores e até mesmo pedras vaporizados em instantes. Quando o dragão cerrou seus dentes, julgou que não haviam mais sobreviventes, mas então viu por entre as chamas e a fumaça uma esfera azulada de puro poder:<br>--Você tem ideia do que sacrifiquei para chegar aqui!?<br>Com um movimento da mão, o escudo de força da rainha se desfez, com outro, uma relâmpago emergiu de suas mãos, atingindo o dragão que caiu no chão, petrificado pelos milhões de volts correndo por sua carne:<br>--MORRA!<br>Quando a rainha menos esperava, Rogério trespassou-lhe a espada na barriga.<br>Um ferimento fatal...<br>...mas ela ainda não estava morta:<br>--ASHTAK!<br>O relâmpago penetrou a pele de Rogério, tensionando cada um dos seus músculos e jogando-o vários metros para trás:<br>--COFF! COFF! Eu... Eu perdi... Mas não perderei sozinho!<br>Jorge se colocou de pé, precisava agir e precisava ser agora. Com os poucos segundos que tinha, decidiu...",
+        "opcoes": ["Cuspir fogo!", "usar as garras!"],
+        "proxima1": "1211112112112111111211",
+        "proxima2": "1211112112112111111212"
+    },
+    "1211112112112111111211": {
+        "titulo":"<h2>Sem pensar!</h2>",
+        "texto":"Sem pensar, Jorge abriu as mandíbulas novamente, mas tudo que saiu foi uma nuvem negra e fedorenta:<br>--Ashtak!<br>O relâmpago foi disparado, o cavaleiro estava morto:<br>--DESGRAÇADA!<br>Jorge armou as garras e se lançou ao ataque, mas já era tarde, a Rainha casualmente ergueu o braço e lançou um último relâmpago, ceifando a vida do dragão e sacrificando sua própria.<br>A Batalha da Estrada entraria para a estória como um dos encontros militares mais complexos e confusos de toda a história e mesmo hoje e enquanto todos concordam que a independência e paz de Elsara foram salvas, os motivos de toda a confusão nunca ficaram claros.<h2>Sem vencedores</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "1211112112112111111212": {
+        "titulo":"<h2>Força bruta!</h2>",
+        "texto":"Jorge estendeu suas garras e saiu em disparada, contornando as chamas e saltando em cima da Rainha:<br>--ASHTOK!--ela gritou em desespero<br>O relâmpago atingiu Jorge em cheio, mas sua inércia agora era grande demais para parar. O corpo enrigecido do dragão seguiu sua trajetória, esmagando a rainha e cravando suas garras em sua carne:<br>--Eu... Eu... EU NÃO ME ARREPENDO DE NADA!--e a rainha morreu<br>Com todos os inimigos mortos, Rogério aproveitou a chance de ver seu amigo.<br>Jorge não estava bem, mas não estava morto e algumas semanas de veterinário mais tarde, estava saudável o suficiente para participar da grande parada de comemoração da vitória.<br>Dragão e cavaleiro foram consagrados membros da corte do novo Rei e viveram para ver seus nomes se tornarem sinônimo de aventura e heroismo.<h2>Heróis em chamas!</h2>",
         "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
         "proxima1": "8",
         "proxima2": "8"
@@ -225,7 +295,7 @@
     },
     "1211112112112111111121": {
         "titulo":"<h2>Senhor do Fogo!</h2>",
-        "texto":"Jorge abriu as mandíbulas e disparou uma coluna de fogo infernal que reduziu os soldados à cinzas:<br>--JORGE! PRECISAMOS SAIR DAQUI! A BATALHA ESTÁ...<br>--EU SEI ONDE A RAINHA ESTÁ! VENHA COMIGO!<br>Por um instante, Rogério exitou, no instante seguinte, agarrou o dragão pelas patas e os dois voaram rente às árvores até a colina onde a rainha estava.<br>--ASHTAK<br>Três raios emergiram das mãos da rainha, cercando o dragão e o obrigando a cair no chão enquanto os cavaleiros da rainha avançavam.<br>Por um instante, Jorge julgou tudo perdido, no instante seguinte, Rogério ergeu sua espada, matando um cavaleiro enquanto derrubava outro do cavalo. Diante disso, Jorge decidiu por...",
+        "texto":"Jorge abriu as mandíbulas e disparou uma coluna de fogo infernal que reduziu os soldados à cinzas:<br>--JORGE! PRECISAMOS SAIR DAQUI! A BATALHA ESTÁ...<br>--EU SEI ONDE A RAINHA ESTÁ! VENHA COMIGO!<br>Por um instante, Rogério exitou, no instante seguinte, agarrou o dragão pelas patas e os dois voaram rente às árvores até a colina onde a rainha estava.<br>--ASHTAK<br>Três raios emergiram das mãos da rainha, cercando o dragão e o obrigando a cair no chão enquanto os cavaleiros da rainha avançavam.<br>Por um instante, Jorge julgou tudo perdido, no instante seguinte, Rogério ergueu sua espada, matando um cavaleiro enquanto derrubava outro do cavalo. Diante disso, Jorge decidiu por...",
         "opcoes": ["Fogo!", "Garras!"],
         "proxima1": "12111121121121111111211",
         "proxima2": "12111121121121111111212"
