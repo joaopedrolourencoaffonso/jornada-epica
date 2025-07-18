@@ -148,7 +148,7 @@
     },
     "1211112112112": {
         "titulo":"<h2>Boatos!</h2>",
-        "texto":"Algum tempo depois, Rogério chegou balançando uma enxarpe <i>quase</i> parecida com a do ganso da rainha e os dois começaram a seguir rumo à capital do reino:--Rogério... essa tal rainha... você notou algo estranho sobre ela?<br>--Como assim?<br>--É que eu ouvi uns homens conversando na floresta sobre umas coisas estranhas que estavam acontecendo no palácio e...<br>--Bem, não vou negar que as coisas tem estado estranhas em Elsara... Tudo umas noites atrás, quando um ganso maluco voou pela janela do castelo, acordando o rei e rainha. Em si, não seria nada demais, mas todos os empregados do castelo disseram que os gritos que saíram daquele quarto não eram como nada que haviam ouvido antes.<br>--Gritos de terror?<br>--Sim. Mas quando abriram as portas, o rei e a rainha estavam bem... ou pelo menos pareciam estar bem!<br>--Como assim?<br>--Bem, depois daquela noite, foi como se o rei tivesse perdido a cabeça. Ele anda por aí, balbuciando palavras sem nexo umas com as outras e comendo todo o pão que vê pela frente. Me disseram até que ele tem que ser amarrado para ficar no trono dele e são precisos cinco serviçais para fazê-lo se vestir após tomar banho... Mas essa não é a parte mais estranha...<br>--Não, é?<br>--Não, o mais estranho é que o ganso ficou voltando!<br>--O ganso que matamos? O ganso com a enxarpe?<br>--Sim! Depois de voar para fora naquela noite, ele ficou rondando o castelo por dias! Sempre tentando invadir o palácio, brigando com os guardas e tentando atacar a rainha quando tinha a chance. Me disseram que...<br>--Rogério...--disse Jorge, plenamente furioso--...Será que você não percebe!?!?!?...",
+        "texto":"Algum tempo depois, Rogério chegou balançando uma enxarpe <i>quase</i> parecida com a do ganso da rainha e os dois começaram a seguir rumo à capital do reino:--Rogério... essa tal rainha... você notou algo estranho sobre ela?<br>--Como assim?<br>--É que eu ouvi uns homens conversando na floresta sobre umas coisas estranhas que estavam acontecendo no palácio e...<br>--Bem, não vou negar que as coisas tem estado estranhas em Elsara... Tudo umas noites atrás, quando um ganso maluco voou pela janela do castelo, acordando o rei e rainha. Em si, não seria nada demais, mas todos os empregados do castelo disseram que os gritos que saíram daquele quarto não eram como nada que haviam ouvido antes.<br>--Gritos de terror?<br>--Sim. Mas quando abriram as portas, o rei e a rainha estavam bem... ou pelo menos pareciam estar bem!<br>--Como assim?<br>--Bem, depois daquela noite, foi como se o rei tivesse perdido a cabeça. Ele anda por aí, balbuciando palavras sem nexo umas com as outras e comendo todo o pão que vê pela frente. Me disseram até que ele tem que ser amarrado para ficar no trono dele e são precisos cinco serviçais para fazê-lo se vestir após tomar banho... Mas essa não é a parte mais estranha...<br>--Não, é?<br>--Não, o mais estranho é que o ganso ficou voltando!<br>--O ganso que matamos? O ganso com a enxarpe?<br>--Sim! Depois de voar para fora naquela noite, ele ficou rondando o castelo por dias! Sempre tentando invadir o palácio, brigando com os guardas e tentando atacar a rainha quando tinha a chance. Me disseram que... A Rainha também mudou muito, é claro... Desde o incidente, ela começou a comprar armas, reunir generais, treinar cavaleiros... Estão todos assustados com algum tipo de guerra de conquista e...<br>--Rogério...--disse Jorge, plenamente furioso--...Será que você não percebe!?!?!?...",
         "opcoes": ["O GANSO ERA O REI!", "O GANSO ERA ALMADIÇOADO!"],
         "proxima1": "12111121121121",
         "proxima2": "12111121121122"
@@ -190,10 +190,80 @@
     },
     "121111211211211111": {
         "titulo":"<h2>Pela estrada!</h2>",
+        "texto":"--Nesse caso, senhores, não seria melhor que o dragão voasse à frente do exército, para prover vigilância aérea?<br>Rogério olhou inquisitivamente para Jorge que respondeu:",
+        "opcoes": ["Eu prefiro ficar perto do exército", "Pode contar comigo!"],
+        "proxima1": "1211112112112111111",
+        "proxima2": "1211112112112111112"
+    },
+    "1211112112112111111": {
+        "titulo":"<h2>Desprevinidos!</h2>",
+        "texto":"O exército seguiu em marcha até chegar a uma ponte estreita sobre o Rio Avian. Apenas dois homens podiam passar por vez, então, dragão e cavaleiro sentaram na retaguarda enquanto a monótona travessia era realizada, até que ouviram, ao longe, um zunir familiar:<br>--FLECHAS!<br>Em segundos, dezenas de soldados estavam mortos, segundos mais tarde, a floresta inteira parecia possuída, hordas de tropas de Elsara aparecendo de todos os lados, surpreendendo os elmorianos e destroçando suas formações.<br>Rogério desembainhou sua espada e desesperadamente tentou organizar as tropas remanescentes numa linha de combate enquanto Jorge decidiu por...",
+        "opcoes": ["Voar, procurar a rainha e acabar logo com isso", "Se juntar à linha de combate"],
+        "proxima1": "12111121121121111111",
+        "proxima2": "12111121121121111112"
+    },
+    "12111121121121111112": {
+        "titulo":"<h2>Cercados!</h2>",
         "texto":"[CONTINUAR DAQUI!]",
-        "opcoes": ["Seguir pela estrada", "Seguir pela floresta"],
-        "proxima1": "121111211211211111",
-        "proxima2": "121111211211211112"
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "12111121121121111111": {
+        "titulo":"<h2>Decaptação!</h2>",
+        "texto":"Jorge abriu suas asas e se pôs a voar, mas procurar a armadura brilhante da rainha em meio à arvores e tropas não era tarefa fácil, com flechas e lanças voando contra si o tempo todo enquanto a atmosfera era inundada pelos sons de gritos e carne sendo rasgada. Após longos e excruciantes minutos, havistou, numa colina próxima, a rainha, reunida com seus cavaleiros mais leais.<br>Diante disso, Jorge decidiu:",
+        "opcoes": ["Atacar imediatamente", "Buscar Rogério"],
+        "proxima1": "121111211211211111111",
+        "proxima2": "121111211211211111112"
+    },
+    "121111211211211111112": {
+        "titulo":"<h2>Juntos até o fim!</h2>",
+        "texto":"Jorge retornou o mais rápido que pode e encontrou Rogério, caído de seu cavalo e cercado por cinco homens de Elsara.<br>Sem tempo para pensar, decidiu...",
+        "opcoes": ["Fogo!", "Garras!"],
+        "proxima1": "1211112112112111111121",
+        "proxima2": "1211112112112111111122"
+    },
+    "1211112112112111111121": {
+        "titulo":"<h2>Senhor do Fogo!</h2>",
+        "texto":"Jorge abriu as mandíbulas e disparou uma coluna de fogo infernal que reduziu os soldados à cinzas:<br>--JORGE! PRECISAMOS SAIR DAQUI! A BATALHA ESTÁ...<br>--EU SEI ONDE A RAINHA ESTÁ! VENHA COMIGO!<br>Por um instante, Rogério exitou, no instante seguinte, agarrou o dragão pelas patas e os dois voaram rente às árvores até a colina onde a rainha estava.<br>--ASHTAK<br>Três raios emergiram das mãos da rainha, cercando o dragão e o obrigando a cair no chão enquanto os cavaleiros da rainha avançavam.<br>Por um instante, Jorge julgou tudo perdido, no instante seguinte, Rogério ergeu sua espada, matando um cavaleiro enquanto derrubava outro do cavalo. Diante disso, Jorge decidiu por...",
+        "opcoes": ["Fogo!", "Garras!"],
+        "proxima1": "12111121121121111111211",
+        "proxima2": "12111121121121111111212"
+    },
+    "12111121121121111111211": {
+        "titulo":"<h2>Senhor do Fogo!?</h2>",
+        "texto":"Jorge abriu as mandíbulas e mas no lugar de uma coluna de fogo, tudo que saiu foi uma fumaça negra e fedorenta:<br>--Está sem fogo, não é dragão!?<br>A rainha então estendeu sua mão, pronunciou a palavra mágica e um raio ceifou a vida do dragão. <br>Sozinho, Rogério não resistiu muito e a Batalha da Estrada entrou para história como um dos maiores  desastres militares de todos os tempos assim como o ponto de legitimação da Rainha Louca, que partiria numa série de campanhas de conquistas gloriosas para ela e destrutivas para todos os outros.<h2>Erro fatal</h2>",
+        "opcoes": ["Fogo!", "Garras!"],
+        "proxima1": "12111121121121111111211",
+        "proxima2": "12111121121121111111212"
+    },
+    "12111121121121111111212": {
+        "titulo":"<h2>Força bruta!</h2>",
+        "texto":"Jorge estendeu suas garras e saiu em disparada, contornando os cavaleiros e saltando em cima da Rainha:<br>--ASHTOK!--ela gritou em desespero<br>O relâmpago atingiu Jorge em cheio, mas sua inércia agora era grande demais para parar. O corpo enrigecido do dragão seguiu sua trajetória, esmagando a rainha e cravando suas garras em sua carne:<br>--Eu... Eu... EU NÃO ME ARREPENDO DE NADA!--e a rainha morreu<br>Sem mais um líder, os cavaleiros viram que a guerra estava perdida e se renderam ou fugiram, dando a Rogério a chance de ver seu amigo.<br>Jorge não estava bem, mas não estava morto e algumas semanas de veterinário mais tarde, estava saudável o suficiente para participar da grande parada de comemoração da vitória.<br>Dragão e cavaleiro foram consagrados membros da corte do novo Rei e viveram para ver seus nomes se tornarem sinônimo de aventura e heroismo.<h2>Heróis por um triz!</h2>",
+        "opcoes": ["Fogo!", "Garras!"],
+        "proxima1": "12111121121121111111211",
+        "proxima2": "12111121121121111111212"
+    },
+    "121111211211211111111": {
+        "titulo":"<h2>Ataque final!</h2>",
+        "texto":"Jorge fechou suas asas, deixou a gravidade guiar seu corpo até quase a linha das árvores e de lá, seguiu voando baixinho em direção a colina, usando as copas das árvores como camuflagem.<br>Quando já estava quase na colina, abriu suas mandíbulas, preparou o fogo e então.... viu um relâmpago.<br>Seu corpo se enrijeceu, a vida começou a lhe escapar, mas isso não impediu seu fogo de saltar de sua boca, encinerandoa a colina, suas árvores, cavaleiros e por muito pouco, a própria rainha.<br>--DROGA!--gritou a rainha, saltando de seu cavalo, interrompendo o relâmpago.<br>Jorge caiu na colina, meio vivo, meio morto. A rainha estava no chão, metade de seus cavaleiros estava morta ou se escondendo, mas a outra metade seguia pronta para defende-la.<br> Diante disso, Jorge decidiu...",
+        "opcoes": ["Lançar fogo novamente", "Ir para cima"],
+        "proxima1": "1211112112112111111111",
+        "proxima2": "1211112112112111111112"
+    },
+    "1211112112112111111111": {
+        "titulo":"<h2>Fogo final!</h2>",
+        "texto":"Instintivamente, Jorge abriu suas mandíbulas, mas no lugar de fogo, tudo que saiu foi uma nuvem de fumaça negra.<br>Jorge havia se esquecido que havia acabado de cuspir fogo e com resultado, os cavaleiros da rainha tiveram tempo de avançar sobre ele.<br>O dragão tentou se defender, mas em poucos instantes sua carne já enfraquecida estava repleta de cortes e a vida abandonou seu corpo.<br>A Batalha da Estrada seria para sempre lembrada como um dos maiores desastres militares de todos os tempos assim como o ponto de legitimação da Rainha Louca, que partiria numa série de campanhas de conquistas gloriosas para ela e destrutivas para todos os outros.<h2>Sacrifício falho</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "1211112112112111111112": {
+        "titulo":"<h2>Garras!</h2>",
+        "texto":"Jorge estendeu suas garras e lançou-se com tudo sobre a rainha caída. De imediato, sentiu as lanças e espadas dos cavaleiros arrebentando sua pele, mas não importava, seguiu avançando e fincou suas garras na carne de vossa majestade:<br>--DESGRAÇADO! ASHTAK!<br>Um luz começou a emergir das mãos da rainha a qual imediatamente agarrou o dragão pelo pescoço. Em segundos, milhões de volts correram pelo corpo do dragão, que sentiu seu corpo enrigecer como pedra enquanto o mundo ao seu redor enegrecia até desaparecer.<br>A Batalha da Estrada seria para sempre lembrada como uma das batalhas mais estranhas da história, pois, se por um lado os exércitos de Elsara triunfaram, por outro, a rainha pereceu de seus ferimentos naquela mesma noite. Sem mais ninguém na linha de suceção, o Duque foi consagrado rei e a pedido de Rogério, erigiu uma estátua para o lendário dragão que sacrificou sua vida pelo bem da justiça.<h2>Mártire Lendário!</h2>",
+        "opcoes": ["Atacar imediatamente", "Buscar Rogério"],
+        "proxima1": "121111211211211111111",
+        "proxima2": "121111211211211111112"
     },
     "121111211211211112": {
         "titulo":"<h2>Guerra na floresta!</h2>",
