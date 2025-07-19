@@ -126,11 +126,25 @@
         "proxima2": "12111121121212112"
     },
     "121112111": {
-        "titulo":"<h2>Só um truque!</h2>",
+        "titulo":"<h2>A Mensagem do ganso!</h2>",
+        "texto":"Rogério devolveu o ganso ao solo e este começou a riscar a terra desesperadamente. Em poucos instantes, surgiu a letra 'A', depois a letra 'I', então 'N', 'H' e por fim...<br>--Rainha!? O que tem a rainha?--disse Jorge confuso<br>O ganso se adiantou sobre outro pedaço de terra e novamente fez uma série de riscos:<br>--'EU SOU'?--disse Rogério, confuso por alguns instantes antes de gritar--'EU SOU A RAINHA!?'<br>Dragão e cavaleir deixaram seus queixos caírem enquanto o ganso saltava de alegria:<br>--Mas isso não faz sentido! Não pode fazer sentido! Deve ser um truque!<br>--Não! Espera!...--disse Jorge--...Eu me lembro de quando eu era criança sobre uma estória de um feitiço de troca de almas! É um feitiço perigoso que se feito da forma errada pode mandar um castelo inteiro pelos ares, MAS, é possível!<br>O cavaleiro olhou para o dragão, depois para o ganso e por fim para o cadáver do homem-lobo, então levou suas mãos à nuca e indagou:<br>--Tudo bem... então alguém roubou o corpo da rainha para se tornar rainha... O que fazemos agora?<br>O ganso/rainha começou novamente a riscar algo no chão e ao final, dragão e cavaleiro leram: 'PSGM SCRT'.<br>--Passagem... passagem secreta!?--disse Rogério--...Não sei... é muito arriscado... E se falássemos com o mago da montanha? Talvez ele pudesse nos ajudar<br>Diante daquele impasse, Jorge pensou um pouco e decidiu...",
+        "opcoes": ["Passagem secreta", "O Mago da montanha"],
+        "proxima1": "1211121111",
+        "proxima2": "1211121112"
+    },
+    "1211121111": {
+        "titulo":"<h2>A Passagem Secreta!</h2>",
+        "texto":"--Com seu aço e meu fogo, podemos pegar o usurpador de surpresa e ele (ou ela) não terá a menor chance!<br>[CONTINUAR DAQUI]",
+        "opcoes": ["Passagem secreta", "O Mago da montanha"],
+        "proxima1": "1211121111",
+        "proxima2": "1211121112"
+    },
+    "1211121112": {
+        "titulo":"<h2>O Mago da Montanha!</h2>",
         "texto":"[CONTINUAR DAQUI]",
-        "opcoes": ["Vamos colocar ele no chão e ver o que ele escreve", "Você está certo, vamos pegar logo nosso dinheiro"],
-        "proxima1": "121112111",
-        "proxima2": "1211121122"
+        "opcoes": ["Passagem secreta", "O Mago da montanha"],
+        "proxima1": "1211121111",
+        "proxima2": "1211121112"
     },
     "12111212": {
         "titulo":"<h2>Garras na carne!</h2>",
@@ -302,7 +316,7 @@
     },
     "12111121121121": {
         "titulo":"<h2>MAJESTADE!?!?</h2>",
-        "texto":"Rogério parou onde estava, abriu sua boca, mas não conseguiu dizer nada, pois fazia sentido demais:<br>--Não... Não! Não faz sentido! Como poderia?<br>--Troca de almas!<br>--O que!?<br>--Feitiço de troca de almas! Minha mãe me falou dele quando eu ainda era filhote! É um feitiço complexo e muito perigoso, mas totalmente possível.<br>Rogério ficou pensando consigo mesmo, matutando o que havia acabado de ouvir:<br>--JORGE! VOCÊ ESTÁ CERTO!... Mas... isso quer dizer que o usurpador está no corpo da rainha!?<br>--Talvez seja uma usurpadora!<br>--Hum, sim, uma bruxa ao invés de bruxo. Mas o que vamos fazer agora?",
+        "texto":"Rogério parou onde estava, abriu sua boca, mas não conseguiu dizer nada, pois fazia sentido demais:<br>--Não... Não! Não faz sentido! Como poderia?<br>--Troca de almas!<br>--O que!?<br>--Feitiço de troca de almas! Minha mãe me falou dele quando eu ainda era filhote! É um feitiço complexo e muito perigoso que pode facilmente resultar em uma explosão se feito errado, MAS, totalmente possível.<br>Rogério ficou pensando consigo mesmo, matutando o que havia acabado de ouvir:<br>--JORGE! VOCÊ ESTÁ CERTO!... Mas... isso quer dizer que o usurpador está no corpo da rainha!?<br>--Talvez seja uma usurpadora!<br>--Hum, sim, uma bruxa ao invés de bruxo. Mas o que vamos fazer agora?",
         "opcoes": ["FALAR COM O IRMÃO DO REI", "PEDIR POR MAIS DINHEIRO!"],
         "proxima1": "121111211211211",
         "proxima2": "121111211211212"
