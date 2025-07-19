@@ -41,6 +41,27 @@
         "proxima1": "12121",
         "proxima2": "12122"
     },
+    "12122": {
+        "titulo":"<h2>FOGO!</h2>",
+        "texto":"Jorge abriu suas mandíbulas e cuspiu um inferno que imediatamente cobriu a troll em chamas:<br>--DESGRAÇADOS!<br>Em desespero, ela agarrou umas das árvores que ela mesma derrubou, girou como um bastão e acertou o dragão, lançando vários metros para dentro da mata.<br>Ferido e com o corpo repleto de dor, Jorge decide...",
+        "opcoes": ["Morder o pescoço da troll", "Usar as garras nas pernas da troll!"],
+        "proxima1": "121221",
+        "proxima2": "121222"
+    },
+    "121221": {
+        "titulo":"<h2>Mordida!</h2>",
+        "texto":"Por um instante, Jorge pensou em fugir, mas então ouviu o brandir da espada de Rogério:<br>--JORGE! SOCORRO!<br>Seu coração se acelerou, suas veias foram incendiadas por adrenalina. Em um instante, se pôs de pé, abriu as mandíbulas, lançou-se no ar e caiu sobre o pescoço da troll, que ainda estava em chamas, fazendo-a cair na lama.<br>A combinação de mordida e chamas era fatal e Trollmene sabia que não ia resistir, mas ela ainda tinha forças o bastante para agarrar Jorge pelo e num único golpe, partí-lo em dois:<br>--JORGE!<br>O cavaleiro assistiu enquanto o dragão e o troll davam seus últimos suspiros sem poder fazer nada e mesmo quando já era um homem idoso, nunca se esqueceu do nobre sacrifício de seu velho amigo dragão.<h2>Morto na floresta</h2>",
+        "opcoes": ["Use 'ctrl + R'", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
+    },
+    "121222": {
+        "titulo":"<h2>Derrubando o gigante!</h2>",
+        "texto":"Por um instante, Jorge pensou em fugir, mas então ouviu o brandir da espada de Rogério:<br>--JORGE! SOCORRO!<br>Seu coração se acelerou, suas veias foram incendiadas por adrenalina. Em um instante, se pôs de pé, abriu as mandíbulas, lançou-se no ar e caiu com as garras sobre as pernas da troll. Com os cabelos ainda em chamas, Trollmene perdeu o equilíbrio e caiu na lama. Com seus últimos suspiros,tentou agarrar o pescoço do dragão, mas este estava muito distante.<br>Dragão e cavaleiro observaram a troll dar seus últimos suspiros e quando tinham certeza de que ela estava morta, disseram um para o outro:<br>--VAMOS SAIR DAQUI!<br>Com muita dificuldade, o dragão conseguiu retirar o cavaleiro da lama e os dois fugiram em pânico para o interior da floresta.<br>Quando seus corações já não mais estavam à beira de saltar de suas gargantas, Rogério disse:<br>--Teria problema eu dormir na sua caverna hoje? Amanhã a gente caça no rio...<br>Jorge não viu problema e os dois seguiram para a velha reentrância nas montanhas quando ouviram um som inesperado:<br>--HONK! HONK! Seguindo o som para dentro da caverna, viram um pequeno chumaço de penas brancas envoltas em uma enxarpe rosa, indo de um lado para o outro por sobre o tesouro do dragão:<br>--O ganso!<br>Era tão inacreditável quanto frustrante. Mas isso não importava agora, Jorge estava apenas a um passo de ganhar suas (primeiras) duzentas moedas de ouro! Frente a isso, decidiu...",
+        "opcoes": ["Perguntar a Rogério o que fazer.", "Cuspir fogo!"],
+        "proxima1": "12111",
+        "proxima2": "12112"
+    },
     "12121": {
         "titulo":"<h2>Bater papo!?</h2>",
         "texto":"--M-M-Meu caro senhor... eh...<br>--É senhora! Senhora Trollmene!<br>--Senhora! Senhora Trollmene!... Nós... Nós não queríamos invadir seus domínios, somente queríamos...<br>--Não importa o que queriam, vocês invadiram e devem ser punidos!<br>Ela agarrou a árvore que acabara de derrubar e ergou no ar, pronta para esmagar dragão e cavaleiro, quando Rogério tomou a vez:<br>--SENHORA, PEDIMOS SEU PERDÃO! NÃO QUERÍAMOS INVADIR SUA PROPRIEDADE! POUPE-NOS E NUNCA MAIS VERÁ NOSSAS SOMBRAS!<br>A troll ficou parada onde estava, matutando o que acabara de ouvir até que disse:<br>--Pois bem...--largou a árvore no chão, causando um estrondo ensurdecedor--...Vocês tem dez segundos.<br>--Bem, eu ainda estou preso na lama então...<br>--10, 9, 8...<br>Rogério agarrou o pescoço do dragão o qual começou a puxar como um louco até que o cavaleiro foi liberto e a dupla saiu em disparada floresta à abaixo.<br>Quando finalmente estavam a uma distância segura, dragão e cavaleiro cairam no chão, lutando para respirar:<br>--Então... o que acha de tentarmos o rio agora?<br>O dragão concordou e ambos rumaram para o Rio onde também não obtiveram muito sucesso:<br>--Estou com fome... minhas asas estão doendo... meu...<br>--Tá bem, jacaré! Tabém! Amanhã a gente vai para o lago e resolve isso!<br>--Eu não sou um jacaré...--disse Jorge num tom bem baixo<br>--Tem problema eu dormir na sua caverna hoje? Muito melhor que ir e voltar para a cidade!<br>--Claro!<br>Após alguns instantes, estavam na frente da caverna cravada na base da montanha. Rogério estava com o cachimbo nos lábios, admirando as árvores enquanto Jorge falava sobre os jogos que poderiam jogar durante a noite quando ambos ouviram um som:<br>--HONK! HONK!<br>Seguindo o som para dentro da caverna, viram um pequeno chumaço de penas brancas envoltas em uma enxarpe rosa, indo de um lado para o outro por sobre o tesouro do dragão:<br>--O ganso!<br>Era tão inacreditável quanto frustrante. Mas isso não importava agora, Jorge estava apenas a um passo de ganhar suas (primeiras) duzentas moedas de ouro! Frente a isso, decidiu...",
@@ -68,6 +89,55 @@
         "opcoes": ["Dormir e recuperar as forças!", "Capturar o ganso de um jeito ou de outro!"],
         "proxima1": "121111",
         "proxima2": "121112"
+    },
+    "121112": {
+        "titulo":"<h2>Agora ou nunca!</h2>",
+        "texto":"Jorge saiu em disparada, Rogério logo atrás dele. A noite já começava a avançar e a floresta era lentamente tomada pela escuridão, o piar das corujas e é claro:<br>--HONK! HONK!<br>Após uma hora de perseguição, finalmente conseguiram encurralar o ganso contra o muro de uma casa abandonada:<br>--Coff! Coff!!...Aff..Meu Deus estou todo suado... Aff...<br>--Pelo menos você pode suar.--disse Jorge, esbaforando um ar quente como o Sol<br>--Tudo bem, Jorge... Vamos lá, você pela direita, eu pela esquerda, bem devagar e cuidadosa-<br>Folhas tremeram. Passos ecoaram. Dragão, cavaleiro e ganso avistaram por entre o negrume da noite um par de olhos brilhantes lentamente se aproximando.<br>--Jorge, um pouco de fogo, rápido!<br>Jorge incendiu o galho de uma árvore próxima, banhando a área com um tom alaranjado e revelando uma criatura peluda, com cara de lobo, corpo de homem, dentes prateados e olhos brancos reluzentes:<br>--<b>HONK! HONK!</b>--disse o ganso, se escondendo atrás do cavaleiro<br>--Jorge, você ainda tem fogo na barriga?--disse o cavaleiro percebendo que não havia por onde fugir<br>--Sim...<br>A criatura deu mais dois passos à frente, sua cabeça girando de um lado para o outro, calculando o próximo passo.<br>--Vamos fazer o seguinte... eu distraio ele e você...<br>A criatura saltou sobre o cavaleiro, suas garras brandindo contra o aço da espada inundando a floresta com o ruído metálico da luta. <br>Desesperado, Jorge decidiu...",
+        "opcoes": ["Cuspir Fogo!", "Morder a criatura por trás"],
+        "proxima1": "1211121",
+        "proxima2": "1211122"
+    },
+    "1211121": {
+        "titulo":"<h2>Tempestade de fogo!</h2>",
+        "texto":"Jorge se posicionou com cuidado, abriu a boca e cuspiu uma pequena rajada de fogo, grande o suficiente para chamuscar o monstro, mas pequena o suficiente para não ferir Rogério.<br>O monstro uivou de dor, se voltou para o dragão e saltou sobre sua cabeça.<br>Com apenas um segundo para tomar a decisão, Jorge decidiu...",
+        "opcoes": ["Morder o pescoço do monstro", "Usar as garras!"],
+        "proxima1": "12111211",
+        "proxima2": "12111212"
+    },
+    "12111211": {
+        "titulo":"<h2>Dentes na carne!</h2>",
+        "texto":"Jorge abriu suas mandíbulas e cravou no pescoço da fera, que uivou como um fantasma, usando suas garras para ferir a carne do dragão. Quando a dor se tornou demais, Jorge soltou a bestas que recuou direto para a espada de Rogério, que trespassou seu peito num só golpe.<br>O monstro caiu no chão sem vida enquanto dragão, cavaleiro e ganso se sentavam, respirando pesado e tentando se recuperar do que acabara de ocorrer:<br>--MAS QUE DROGA DE FLORESTA É ESSA!?--indagou o cavaleiro<br>--Em retrospectiva, acho que tinha um motivo para minha caverna estar vazia...--acrescentou o dragão<br>--HONK! HONK!--disse o ganso<br>Dragão e cavaleiro se lembraram da presença do ganso e então perceberam que ele parecia estar riscando a terra com seu bico:<br>--Vem pro saco, desgraça! Que você não me escapa mais!<br>--Espera Rogério, veja só!<br>Jorge apontou para o chão e para surpresa dos dois, havia um 'R' escrito no chão. Era torto e feio, mas sem dúvida era um 'R'.<br>Chocados, dragão e cavaleiro olharam para o ganso enrolado na enxarpe e decidiram...",
+        "opcoes": ["Botar o ganso no chão e ver o que ele escreve", "Colocar o ganso na sacola"],
+        "proxima1": "121112111",
+        "proxima2": "121112112"
+    },
+    "121112112": {
+        "titulo":"<h2>Só um truque!</h2>",
+        "texto":"--Deve ser um ganso de circo...--disse Rogério, colocando o ganso na sacola<br>--Isso existe?<br>--HONK! HONK!--o ganso gritava desesperadamente, como se gritasse por socorro<br>--Existe todo tipo de animal de circo! Esse aqui deve ter sido treinado para fazer truques!<br>Jorge ouviu aquilo, pensou um pouco e respondeu:",
+        "opcoes": ["Vamos colocar ele no chão e ver o que ele escreve", "Você está certo, vamos pegar logo nosso dinheiro"],
+        "proxima1": "121112111",
+        "proxima2": "1211121122"
+    },
+    "1211121122": {
+        "titulo":"<h2>Explicação plausível</h2>",
+        "texto":"Era uma explicação plausível e para Jorge aquilo era o suficiente. Com o ganso bem preso, dragão e cavaleiro voltaram para a caverna onde tiveram uma péssima noite de sono, a medida que o ganso não parava quieto.<br>Quando a manhã finalmente chegou, os dois praticamente correram em direção à capital do reino na tentativa desesperada de se livra daquela máquina de barulho:<br>--PELO AMOR DE DEUS, SEU GUARDA! NOS DEIXER PASSAR DE UMA VEZ!<br>Passados os muros azuis de Elsara, dragão e cavaleiro correram pelas ruas de casas de madeira até chegar no castelo branco onde, ao som de 'HONK! HONK!' imploraram por uma audiência com a rainha.<br>Quando finalmente foram autorizados a entrar no salão real, nem sequer notaram que o Rei estava nu e amarrado no seu trono ou o fato da rainha estar vestindo um armadura de guerra, não, invés disso, simplesmente arremessaram a sacola com o ganso e gritaram:<br>--AQUI ESTÁ O MALDITO GANSO! CADÊ O NOSSO DINHEIRO!?<br>Se a rainha se irritou, não deu para perceber, pois estava ocupada demais tirando o ganso da sacola:<br>--Ora, ora, ora, amiguinha...--ela disse com um sorriso suspeito<br>--HONK! HONK!--gritava o ganso com o que parecia ser uma mistura de terror e fúria<br>--Pode, por favor nos pagar? Precisamos dormir!--disse o dragão<br>Vossa majestade não parecia muito feliz com a atitude da dupla, mas o ganso estava em suas mãos e isso bastava.<br>Uma vez pagos, cavaleiro e drãgão saíram cidade à fora com seus ombros carregados de ouro e sorrisos de orelha à orelha, quando Rogério disse:<br>--Sabe, você até que sabe pensar rápido para um dragão com cara de jacaré.<br>--Obrigado! Você também não foi inútil.<br>Rogério mordeu o lábio, mas seguiu:<br>--O que acha de formarmos uma sociedade? Seu fogo e minha espada, juntos, podem qualquer coisa!<br>Pego de surpresa, Jorge parou por um momento para refletir antes de responder...",
+        "opcoes": ["EBA! VAMOS SER AMIGOS!", "Obrigado, mas eu gosto da minha vida como está!"],
+        "proxima1": "12111121121212111",
+        "proxima2": "12111121121212112"
+    },
+    "121112111": {
+        "titulo":"<h2>Só um truque!</h2>",
+        "texto":"[CONTINUAR DAQUI]",
+        "opcoes": ["Vamos colocar ele no chão e ver o que ele escreve", "Você está certo, vamos pegar logo nosso dinheiro"],
+        "proxima1": "121112111",
+        "proxima2": "1211121122"
+    },
+    "12111212": {
+        "titulo":"<h2>Garras na carne!</h2>",
+        "texto":"Jorge abriu suas garras e atingiu o monstro na barriga. Sangue voou contra as árvores próximas, mas a inércia do monstro não pode ser contida. Apesar da barruga sangrenta, a criatura cerrou suas mandíbulas sobre o pescoço do dragão, criando uma jazente de sangue que não podia ser contida:<br>--MORRA!<br>Rogério trespassou o peito da fera com sua espada, mas já era tarde demais. Apesar dos esforços do cavaleiro, o dragão não resistiu. Na manhã seguinte, o cavaleiro cavou uma tumba para seu corajoso amigo e passou a visitá-lo sempre que podia, guardando as memórias do corajoso dragão em seu coração mesmo muitas décadas mais tarde.<h2>Vítima do monstro!</h2>",
+        "opcoes": ["Usar as garras!", "para reiniciar aventura!"],
+        "proxima1": "8",
+        "proxima2": "8"
     },
     "121111": {
         "titulo":"<h2>Recuperando as energias!</h2>",
