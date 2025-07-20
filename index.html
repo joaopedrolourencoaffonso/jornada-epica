@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jornada Épica</title>
+  <style>
+    body{
+      background-image: url('https://plus.unsplash.com/premium_photo-1666539896803-d70435d30a45?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+      font-family:'verdana';
+    }
+    #options button {
+      margin-right: 10px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+    #response {
+      margin-top: 20px;
+      font-weight: bold;
+      color: #333;
+    }
+    .escolhas, h2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .capitulo {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      line-height: 1.5;
+      border: 3px solid rgb(2, 10, 0);
+      background-color: #f5f5dc;
+      margin: 0 auto;
+      width: 90%;
+      border-radius: 25px;
+    }
+    h1 {
+      border: 1px solid rgb(2, 10, 0);
+      border-radius: 5px;
+      background-color: #f5f5dc;
+      width: 20%;
+      text-align: center; /* Centers text horizontally */
+      line-height: 50px; /* Centers text vertically (adjust as needed based on your h1 height) */
+      margin: 0 auto; /* Centers the h1 within its parent container */
+      padding: 10px; /* Adds padding for better spacing around text */
+      font-family:'Brush Script MT', cursive;
+    }
+
+    h2 {
+      margin-top: 0;
+      font-style: italic;
+    }
+
+    p {
+      padding: 2%;
+    }
+
+    button {
+      border: none;
+      border-radius: 5px;
+      color: white;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+    }
+
+    .button:hover {background-color: #e7e7e7;color: black;}
+
+    .button1 {
+      background-color: #04AA6D; /* verde */
+    }
+
+    .button2 {
+      background-color: #0704aa; /* azul */
+    }
+  </style>
+</head>
+<body>
+  <h1 class="eraUmaVez" id="eraUmaVez"></h1>
+  <br>
+  <p class="capitulo" id="introducao"></p>
+  <br>
+  <div id="texto-estoria"></div>
+
+  <div id="texto-estoria"></div>
+
+  <div id="texto-opcoes"></div>
+  <br>
+  <div id="options" class="escolhas">
+    <button onclick="escolha(1)" id="option1" class="button button1"></button>
+    <button onclick="escolha(2)" id="option2" class="button button2"></button>
+  </div>
+
+  <script>
+    // variáveis globais
+    let capitulo = 0;
+    let capitulosDaEstoria;
+    let proxima = 0;
+
+    window.onload = function() {
+        // Use fetch to make the GET request
+        fetch("http://localhost:5000/data")
+            .then(response => {
+                // Check if the response is successful
+                if (!response.ok) {
+                    throw new Error(`Error: ${response.status} - ${response.statusText}`);
+                }
+                return response.json(); // Parse the JSON data
+            })
+            .then(data => {
+                // Log the fetched data
+                console.log(data);
+                capitulosDaEstoria = data;
+                
+                // INICIALIZANDO A PÁGINA
+                let titulo = document.getElementById('eraUmaVez');
+                titulo.textContent = capitulosDaEstoria["0"].titulo;
+
+                if (capitulosDaEstoria["0"].texto == "") {
+                  const primeiroCapitulo = document.getElementById("introducao");
+                  primeiroCapitulo.remove();
+                } else {
+                  let texto = document.getElementById('introducao');
+                  texto.innerHTML = capitulosDaEstoria["0"].texto;
+                }
+
+                updateButtonText("option1", capitulosDaEstoria["0"].opcoes[0]);
+                updateButtonText("option2", capitulosDaEstoria["0"].opcoes[1])
+            })
+            .catch(error => {
+                // Log any errors that occur
+                console.error("Network or parsing error:", error);
+            });
+    };
+    
+    function escolha(option) {
+      if (option == 1) {
+        proxima = capitulosDaEstoria[proxima].proxima1;
+      } else {
+        proxima = capitulosDaEstoria[proxima].proxima2;
+      }
+      temp = proxima;
+      // pega elemento do texto
+      const textoEstoria = document.getElementById('texto-estoria');
+      // cria elemento do parágrafo
+      const paragraph = document.createElement('p');
+      let newDiv = document.createElement('div');
+      newDiv.classList.add('capitulo');
+      
+      // Insere texto na página
+      //let node;
+      try {
+        paragraph.innerHTML = `${capitulosDaEstoria[temp].titulo} ${capitulosDaEstoria[temp].texto}`;
+      } catch(err) {
+        temp = 7;
+        paragraph.innerHTML = `${capitulosDaEstoria[temp].titulo} ${capitulosDaEstoria[temp].texto}`;
+        //window.location.reload();
+      }
+      //paragraph.appendChild(node);
+      newDiv.appendChild(paragraph)
+      textoEstoria.appendChild(newDiv);
+      //adicionando quebra de linha para espaçar capítulos entre si
+      const lineBreak = document.createElement('br');
+      textoEstoria.appendChild(lineBreak);
+
+      updateButtonText("option1",capitulosDaEstoria[temp].opcoes[0]);
+      updateButtonText("option2",capitulosDaEstoria[temp].opcoes[1]);
+    }
+
+    function updateButtonText(buttonId, text) {
+        // Get the button element by its ID
+        const button = document.getElementById(buttonId);
+        
+        // If the button exists, update its text content
+        if (button) {
+            button.textContent = text;
+        } else {
+            console.error(`Button with id "${buttonId}" not found.`);
+        }
+    }
+  </script>
+
+</body>
+</html>
